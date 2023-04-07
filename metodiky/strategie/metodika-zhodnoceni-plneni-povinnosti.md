@@ -1,7 +1,8 @@
 ---
+Layout: default
 title: Metodika zhodnocení plnění povinností a provádění Assessmentu EG povinností a jeho udržování
 description: "Metodický dokument pro OVM zpracovávající si přehled svých EG obecných povinností a jejich zhodnocení, obsahuje popisnou a praktickou část s uvedením jednotlivých kroků a procesů"
-version: 1.1
+version: 1.1"
 date: 2023-03-02
 parent: Oblast Strategie a řízení
 nav_order: 6
