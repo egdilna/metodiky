@@ -8,6 +8,12 @@ grand_parent: Metodiky
 ---
 
 
+EGdílna pro vás připravuje u klíčových změnových digitálních zákonů detailní rozbory a popisy všech změn. Dokumenty jsou určeny pro nelegislativce a normální smrtelníky a IT odborníky v úřadech. Vyznat se ve všech změnách legislativního rámce EG je prakticky nemožné a tato forma informací o zásadních změnách se ukázala jako velice vítaná. Děkujeme za všechny kladné ohlasy a díky a samozřejmě i za nápady na vylepšení.
+OBSAH DOKUMENTU
+
+- TOC
+{:toc}
+
 
 
 
