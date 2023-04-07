@@ -17,7 +17,7 @@ Metodický dokument EGdílny
 * Verze: 1.1 z 4.8.2022
 
 
-<!-- more -->
+
 
 
 
@@ -25,48 +25,10 @@ Metodický dokument EGdílny
 
 OBSAH DOKUMENTU
 
-- [1. Úvod](#1-úvod)
-  - [1.1. Účel a použití metodiky](#11-účel-a-použití-metodiky)
-  - [1.2. Publikace metodiky a připomínky](#12-publikace-metodiky-a-připomínky)
-  - [1.3. Historie verzí](#13-historie-verzí)
-  - [1.4. Významy některých technických pojmů](#14-významy-některých-technických-pojmů)
-- [2. Přístupnost dokumentů](#2-přístupnost-dokumentů)
-  - [2.1. Co je přístupnost dokumentů a proč to řešit?](#21-co-je-přístupnost-dokumentů-a-proč-to-řešit)
-  - [2.2. Přístupný dokument a nepřístupný dokument](#22-přístupný-dokument-a-nepřístupný-dokument)
-    - [2.2.1. Co je to vlastně přístupný dokument a jak se s ním dá pracovat](#221-co-je-to-vlastně-přístupný-dokument-a-jak-se-s-ním-dá-pracovat)
-    - [2.2.2. Technické charakteristiky a vlastnosti přístupného dokumentu](#222-technické-charakteristiky-a-vlastnosti-přístupného-dokumentu)
-      - [2.2.2.1. Textová reprezentace](#2221-textová-reprezentace)
-      - [2.2.2.2. Vyhledatelný text](#2222-vyhledatelný-text)
-      - [2.2.2.3. Značky struktury dokumentu a správné pořadí čtení](#2223-značky-struktury-dokumentu-a-správné-pořadí-čtení)
-      - [2.2.2.4. Alternativní textové popisy pro netextové prvky](#2224-alternativní-textové-popisy-pro-netextové-prvky)
-      - [2.2.2.5. Písma, která umožňují extrahovat znaky do textu](#2225-písma-která-umožňují-extrahovat-znaky-do-textu)
-      - [2.2.2.6. Interaktivní pole s popisky formulářů s přístupnými chybovými zprávami a bez načasování](#2226-interaktivní-pole-s-popisky-formulářů-s-přístupnými-chybovými-zprávami-a-bez-načasování)
-      - [2.2.2.7. Další interaktivní funkce: Hypertextové odkazy a navigační pomůcky](#2227-další-interaktivní-funkce-hypertextové-odkazy-a-navigační-pomůcky)
-      - [2.2.2.8. Jazyk dokumentu a jednoznačný název](#2228-jazyk-dokumentu-a-jednoznačný-název)
-      - [2.2.2.9. Zabezpečení, které nebude zasahovat do přístupnosti](#2229-zabezpečení-které-nebude-zasahovat-do-přístupnosti)
-      - [2.2.2.10. Ostatní charakteristiky a funkce zpřístupnění dokumentu](#22210-ostatní-charakteristiky-a-funkce-zpřístupnění-dokumentu)
-  - [2.3. Přístupnost dokumentů v kontextu spisové služby a správy dokumentů](#23-přístupnost-dokumentů-v-kontextu-spisové-služby-a-správy-dokumentů)
-    - [2.3.1. Spisová služba jako odborná správa dokumentů](#231-spisová-služba-jako-odborná-správa-dokumentů)
-    - [2.3.2. Druhy a formy dokumentů a jejich správy](#232-druhy-a-formy-dokumentů-a-jejich-správy)
-    - [2.3.3. Způsoby vzniku vlastního dokumentu](#233-způsoby-vzniku-vlastního-dokumentu)
-  - [2.4. Legislativní rámec](#24-legislativní-rámec)
-  - [2.5. Povinnost vytvářet přístupné dokumenty](#25-povinnost-vytvářet-přístupné-dokumenty)
-  - [2.6. Práce s přístupným dokumentem a přínosy přístupnosti](#26-práce-s-přístupným-dokumentem-a-přínosy-přístupnosti)
-  - [2.7. Důsledky nesplnění přístupnosti dokumentů](#27-důsledky-nesplnění-přístupnosti-dokumentů)
-- [3. Jak na to](#3-jak-na-to)
-  - [3.1. Zahrnutí přístupnosti dokumentů do správy dokumentů a procesů](#31-zahrnutí-přístupnosti-dokumentů-do-správy-dokumentů-a-procesů)
-  - [3.2. Náležitosti dokumentů](#32-náležitosti-dokumentů)
-    - [3.2.1. Obsahové náležitosti](#321-obsahové-náležitosti)
-    - [3.2.2. Technické a procesní náležitosti dokumentu](#322-technické-a-procesní-náležitosti-dokumentu)
-  - [3.3. Přístupnost u druhů a forem dokumentů](#33-přístupnost-u-druhů-a-forem-dokumentů)
-    - [3.3.1. Přístupnost pro digitální dokumenty](#331-přístupnost-pro-digitální-dokumenty)
-      - [3.3.1.1. Pro dokumenty generované informačními systémy](#3311-pro-dokumenty-generované-informačními-systémy)
-      - [3.3.1.2. Pro dokumenty vytvářené v editorech](#3312-pro-dokumenty-vytvářené-v-editorech)
-      - [3.3.1.3. Pro dokumenty doručené od jiného původce](#3313-pro-dokumenty-doručené-od-jiného-původce)
-      - [3.3.1.4. Možnost odeslat dokument také v jiném formátu](#3314-možnost-odeslat-dokument-také-v-jiném-formátu)
-    - [3.3.2. Jak má správně vypadat analogová verze dokumentu, aby šla zpracovat asistivní technologií](#332-jak-má-správně-vypadat-analogová-verze-dokumentu-aby-šla-zpracovat-asistivní-technologií)
-    - [3.3.3. Přístupnost u dynamických druhů dokumentů](#333-přístupnost-u-dynamických-druhů-dokumentů)
-  - [3.4. Co je nepřípustné a co nikdy nedělat](#34-co-je-nepřípustné-a-co-nikdy-nedělat)
+- TOC
+{:toc}
+
+
 # 1. Úvod
 
 ## 1.1. Účel a použití metodiky
