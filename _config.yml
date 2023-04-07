@@ -2,11 +2,11 @@ lang: cs
 theme: just-the-docs
 title: EG metodiky
 description: Metodiky a zdroje k EG na jednom místě
-url: "https://egdilna.github.io/metodiky" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://egdilna.github.io/metodiky"
 repository: egdilna/metodiky
 aux_links:
-  EGdílna: https://www.egdilna.cz
-  EGOVedu: https://www.egovedu.cz
+  - EGdílna: https://www.egdilna.cz
+  - EGOVedu: https://www.egovedu.cz
 
 heading_anchors: false
 search_enabled: true
