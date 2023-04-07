@@ -32,11 +32,11 @@ Autoři dokumentu: Miroslav Pavelka, Michal Rada, Vladimír Dvořák, Jan Jakoub
 
 Dokument je k dispozici v otevřeném formátu spolu se všemi souvislostmi a zdroji na veřejném GIT repozitáři na adrese
 
-https://github.com/egdilna/metodika.dekompozice-povinnosti
+[https://github.com/egdilna/metodika.dekompozice-povinnosti](https://github.com/egdilna/metodika.dekompozice-povinnosti)
 
 Aktuální verze metodiky je vždy k dispozici na webu EG metodiky na adrese
 
-https://egdilna.cz/metodiky
+[http://www.egdilna.cz/metodiky/metodiky/strategie/metodika-zhodnoceni-plneni-povinnosti.html](http://www.egdilna.cz/metodiky/metodiky/strategie/metodika-zhodnoceni-plneni-povinnosti.html)
 
 
 
