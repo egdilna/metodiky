@@ -2,7 +2,7 @@
 title: Metodika pro přístupnost dokumentů
 description: "Metodický dokument pro splnění povinnosti přístupnosti dokumentů veřejnoprávních původců"
 nav_order: 19
-parent: Oblast Přístupnost
+parent: Oblast Přístupnost informací
 grand_parent: Metodiky
 ---
 * Název: Metodika pro přístupnost dokumentů
