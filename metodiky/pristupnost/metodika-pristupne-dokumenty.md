@@ -1,4 +1,5 @@
 ---
+layout:default
 title: Metodika pro přístupnost dokumentů
 description: "Metodický dokument pro splnění povinnosti přístupnosti dokumentů veřejnoprávních původců"
 nav_order: 19
