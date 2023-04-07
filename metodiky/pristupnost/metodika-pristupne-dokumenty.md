@@ -7,6 +7,8 @@ parent: Oblast Přístupnost informací
 grand_parent: Metodiky
 ---
 
+Metodický dokument EGdílny
+
 
 * Název: Metodika pro přístupnost dokumentů
 * Předmět: Metodický dokument pro splnění povinnosti přístupnosti dokumentů veřejnoprávních původců
