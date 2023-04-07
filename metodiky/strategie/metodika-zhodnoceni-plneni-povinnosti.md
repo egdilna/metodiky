@@ -1,8 +1,8 @@
 ---
-Layout: default
+layout: default
 title: Metodika zhodnocení plnění povinností a provádění Assessmentu EG povinností a jeho udržování
 description: "Metodický dokument pro OVM zpracovávající si přehled svých EG obecných povinností a jejich zhodnocení, obsahuje popisnou a praktickou část s uvedením jednotlivých kroků a procesů"
-version: 1.1"
+version: 1.1
 date: 2023-03-02
 parent: Oblast Strategie a řízení
 nav_order: 6
@@ -32,11 +32,11 @@ Autoři dokumentu: Miroslav Pavelka, Michal Rada, Vladimír Dvořák, Jan Jakoub
 
 Dokument je k dispozici v otevřeném formátu spolu se všemi souvislostmi a zdroji na veřejném GIT repozitáři na adrese
 
-https://github.com/egdilna/metodika.dekompozice-povinnosti
+[https://github.com/egdilna/metodika.dekompozice-povinnosti](https://github.com/egdilna/metodika.dekompozice-povinnosti)
 
 Aktuální verze metodiky je vždy k dispozici na webu EG metodiky na adrese
 
-https://egdilna.cz/metodiky
+[http://www.egdilna.cz/metodiky/metodiky/strategie/metodika-zhodnoceni-plneni-povinnosti.html](http://www.egdilna.cz/metodiky/metodiky/strategie/metodika-zhodnoceni-plneni-povinnosti.html)
 
 
 
