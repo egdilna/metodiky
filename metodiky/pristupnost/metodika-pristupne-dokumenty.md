@@ -5,6 +5,8 @@ nav_order: 19
 parent: Oblast Přístupnost informací
 grand_parent: Metodiky
 ---
+
+
 * Název: Metodika pro přístupnost dokumentů
 * Předmět: Metodický dokument pro splnění povinnosti přístupnosti dokumentů veřejnoprávních původců
 * Autor: egdílna.cz
