@@ -1,11 +1,12 @@
 lang: cs
 theme: just-the-docs
-title: Elektronické učebnice EGOVedu
-description: Veřejné elektronické učební a lektorské podklady projektu EGOVermentí EDUkace
-url: "https://egdilna.github.io/egovedu-ucebnice" # the base hostname & protocol for your site, e.g. http://example.com
-repository: egdilna/egovedu-ucebnice
+title: EG metodiky
+description: Metodiky a zdroje k EG na jednom místě
+url: "https://egdilna.github.io/metodiky"
+repository: egdilna/metodiky
 aux_links:
-  EGOVedu: https://www.egovedu.cz
+  - EGdílna: https://www.egdilna.cz
+  - EGOVedu: https://www.egovedu.cz
 
 heading_anchors: false
 search_enabled: true
@@ -25,5 +26,5 @@ last_edit_timestamp: true # show or hide edit time - page must have `last_modifi
 last_edit_time_format: "%d.%m.%Y"
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Navrhněte změny obsahu..."
-gh_edit_repository: "https://github.com/egovedu/egdilna-ucebnice"
+gh_edit_repository: "https://github.com/egdilna/metodiky"
 gh_edit_branch: "work"
