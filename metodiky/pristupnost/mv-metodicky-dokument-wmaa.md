@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Metodika Přístupné webové stránky (nejen pro knihovny)"
+title: "Metodický dokument k Zákonu 99/2019 o přístupnosti"
 description: "V rámci metodik sdružení SKIP vznikla v loňském roce pěkně zpracovaná a přehledná metodika k přístupnosti webových stránek "
 nav_order: 17
 parent: Oblast Přístupnost informací
