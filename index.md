@@ -1,6 +1,5 @@
 ---
-title: Index
+title: Home
 layout: home
 ---
-
-Vítejte na webu EG metodiky. V těchto týdnech převádíme obsah ze starého webu
+sem homepage
