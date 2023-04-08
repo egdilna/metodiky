@@ -2,7 +2,7 @@ lang: cs
 theme: just-the-docs
 title: EG metodiky
 description: Metodiky a zdroje k EG na jednom místě
-url: "http://www.egdilna.cz/metodiky"
+url: "http://metodiky.egdilna.cz"
 repository: egdilna/metodiky
 aux_links:
   EGdílna: https://www.egdilna.cz
