@@ -24,7 +24,7 @@ Postup najdete vždy v rámci [sekce Postupy na webu metodiky.egdilna.cz](https:
 
 Aktuální verze je na adrese
 
-- [https://github.com/egdilna/eg-postupy/blob/main/kontrolni-seznam-asessment-[https://metodiky.egdilna.cz/postupy/kontrolni-seznam-asessment-is](https://metodiky.egdilna.cz/postupy/kontrolni-seznam-asessment-is)
+(https://metodiky.egdilna.cz/postupy/kontrolni-seznam-asessment-is)
 
 
 
