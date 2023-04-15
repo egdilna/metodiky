@@ -214,3 +214,4 @@ Tento kontrolní seznam slouží správcům informačních systémů veřejné s
 - Pro ISVS musí být vedena úplná bezpečnostní dokumentace a dokumentace testů a dokumentace pro analýzu rizik
 
 - ISVS musí být architektonicky vyřešen tak, aby splňoval principy kybernetické bezpečnosti
+
