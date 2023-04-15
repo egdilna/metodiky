@@ -2,7 +2,7 @@
 layout: default
 title: Kontrolní seznam asessmentu informačních systémů
 description: "Tento postup se týká toho, jak postupovat při zhodnocení stavu a souladu svých informačních systémů s požadavky na ně kladenými (asessment informačních systémů)"
-last_updated: 2022-03-21
+last_modified: 2022-03-21
 nav_order: 3
 parent: Kontrolní seznamy postupů
 grand_parent: Postupy
