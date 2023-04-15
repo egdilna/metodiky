@@ -25,7 +25,7 @@ Postup najdete vždy v rámci [sekce Postupy na webu metodiky.egdilna.cz](https:
 
 Aktuální verze je na adrese
 
-[https://metodiky.egdilna.cz/postupy/kontrolni-seznam-asessment-is](https://metodiky.egdilna.cz/postupy/kontrolni-seznam-asessment-is)
+[https://metodiky.egdilna.cz/postupy/kontrolni-seznam-pozadavky-ISVS-nove](https://metodiky.egdilna.cz/postupy/kontrolni-seznam-pozadavky-ISVS-nove)
 
 ## Základní požadavky ISVS na soulad 
 
