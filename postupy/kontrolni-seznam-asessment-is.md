@@ -2,7 +2,7 @@
 layout: default
 title: Kontrolní seznam asessmentu informačních systémů
 description: "Tento postup se týká toho, jak postupovat při zhodnocení stavu a souladu svých informačních systémů s požadavky na ně kladenými (asessment informačních systémů)"
-last_modified: 2022-03-21
+last_modified_date: 2022-03-21
 nav_order: 3
 parent: Kontrolní seznamy postupů
 grand_parent: Postupy
@@ -24,13 +24,9 @@ Postup najdete vždy v rámci [sekce Postupy na webu metodiky.egdilna.cz](https:
 
 Aktuální verze je na adrese
 
-(https://metodiky.egdilna.cz/postupy/kontrolni-seznam-asessment-is)
+[https://metodiky.egdilna.cz/postupy/kontrolni-seznam-asessment-is](https://metodiky.egdilna.cz/postupy/kontrolni-seznam-asessment-is)
 
-
-
-
-
- ## Proč asessment IS zpracovávat?
+## Proč asessment IS zpracovávat?
 
 Úřad by si měl zpracovat přehled svých informačních systémů a jejich souladu se všemi požadavky eGovernmentu a připravit si roadmapu, jak svoje systémy upravit tak, aby v souladu byly.
 
