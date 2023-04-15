@@ -20,11 +20,11 @@ Toto je kontrolní seznam a postup zejména využitelný pro architekty a odborn
 
 Tento postup se týká toho, jak postupovat při zhodnocení stavu a souladu svých informačních systémů s požadavky na ně kladenými (asessment informačních systémů)
 
-Postup najdete vždy v rámci repozitáře [GitHub - egdilna/eg-postupy](https://github.com/egdilna/eg-postupy)
+Postup najdete vždy v rámci [sekce Postupy na webu metodiky.egdilna.cz](https://metodiky.egdilna.cz/postupy/eg-postupy)
 
-Aktuální verze
+Aktuální verze je na adrese
 
-- [https://github.com/egdilna/eg-postupy/blob/main/kontrolni-seznam-asessment-is.md](https://github.com/egdilna/eg-postupy/blob/main/kontrolni-seznam-asessment-is.md)
+- [https://github.com/egdilna/eg-postupy/blob/main/kontrolni-seznam-asessment-[https://metodiky.egdilna.cz/postupy/kontrolni-seznam-asessment-is](https://metodiky.egdilna.cz/postupy/kontrolni-seznam-asessment-is)
 
 
 
