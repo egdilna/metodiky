@@ -25,7 +25,7 @@ Postup najdete vždy v rámci [sekce Postupy na webu metodiky.egdilna.cz](https:
 
 Aktuální verze je na adrese
 
-[https://metodiky.egdilna.cz/postupy/kontrolni-seznam-asessment-is](https://metodiky.egdilna.cz/postupy/kontrolni-seznam-asessment-is)
+[https://metodiky.egdilna.cz/postupy/kontrolni-seznam-pozadavky-ISVS-nove](https://metodiky.egdilna.cz/postupy/kontrolni-seznam-pozadavky-ISVS-nove)
 
 ## Základní požadavky ISVS na soulad 
 
@@ -214,3 +214,4 @@ Tento kontrolní seznam slouží správcům informačních systémů veřejné s
 - Pro ISVS musí být vedena úplná bezpečnostní dokumentace a dokumentace testů a dokumentace pro analýzu rizik
 
 - ISVS musí být architektonicky vyřešen tak, aby splňoval principy kybernetické bezpečnosti
+
