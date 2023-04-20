@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kontrolní seznam tvorby a údržby Katalogu služeb úřadulegislativy
+title: Kontrolní seznam tvorby a údržby Katalogu služeb úřadu
 description: "Tento postup se týká toho, proč a jak si má úřad vytvářet vlastní katalog služeb s vazbou na Katalog služeb veřejné správy a co s ním má dělat"
 last_modified_date: 2023-04-20
 nav_order: 11
