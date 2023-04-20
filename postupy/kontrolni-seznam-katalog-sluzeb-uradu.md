@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Kontrolní seznam tvorby a údržby Katalogu služeb úřadulegislativy
-description: "Tento postup se týká toho, proč a jak si má úřad vytvářet vlastní katalog služeb s vazbou na Katalog služeb veřejné správy a co s ním má dělat
-"
-last_modified_date: 2023-04-15
+description: "Tento postup se týká toho, proč a jak si má úřad vytvářet vlastní katalog služeb s vazbou na Katalog služeb veřejné správy a co s ním má dělat"
+last_modified_date: 2023-04-20
 nav_order: 11
 parent: Kontrolní seznamy postupů
 grand_parent: Postupy
@@ -27,9 +26,9 @@ Postup najdete vždy v rámci [sekce Postupy na webu metodiky.egdilna.cz](https:
 
 Aktuální verze je na adrese
 
-[https://metodiky.egdilna.cz/postupy/kontrolni-seznam-pozadavky-ISVS-nove](https://metodiky.egdilna.cz/postupy/kontrolni-seznam-pozadavky-ISVS-nove)
+[https://metodiky.egdilna.cz/postupy/kontrolni-seznam-katalog-sluzeb-uradu](https://metodiky.egdilna.cz/postupy/kontrolni-seznam-katalog-sluzeb-uradu)
 
-## 🖋 Katalog služeb úřadu a Katalog služeb veřejné správy
+## KEKOREKTUŘE Katalog služeb úřadu a Katalog služeb veřejné správy
 
 Orgán veřejné správy si musí vytvořit vlastní vnitřní katalog služeb, kterému říkáme Katalog služeb OVS nebo Katalog služeb úřadu. Jde o datovou evidenci, v níž se vedou údaje o
 
@@ -43,7 +42,7 @@ Všechny tyto služby je vhodne (a někdy i nutné) si vést ve svém katalogu a
 - U všech služeb veřejné správy si sice základní údaje o službách a úkonech získá z Katalogu služeb, ale sám si u služeb musí vést údaje potřebné pro jeho fungování, jako je zodpovědný útvar, správce služby, správce informačního systému jež službu poskytuje či využívá, apod.
 - U služeb jež poskytuje klientům a uživatelům, i když nejsou službami veřejné správy, si musí vést údaje o službé samotné, o správci služby a o zodpovědných osobách, o nástrojích jež k dané službě potřebuje a také podklady pro řízení a hodnocení kvality služby v rámci řízení kvality úřadu.
 
-## 🖋 Jak základně postupovat při tvorbě Katalogu služeb úřadu a jeho prvotním naplnění
+## KEKOREKTUŘE Jak základně postupovat při tvorbě Katalogu služeb úřadu a jeho prvotním naplnění
 
 
 1. Úřad si projde Katalog služeb veřejné správy (třeba přes [nástroj Veřejná část Katalogu služeb veřejné správy](https://portal.gov.cz/sluzby-verejne-spravy/)) a zjistí si, jak katalog vypadá, co obsahuje, může využít také [nástroj Interní evidenční část Katalogu služeb VS](https://egov.shinyapps.io/katalog_sluzeb/)
