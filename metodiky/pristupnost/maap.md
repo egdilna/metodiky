@@ -12,7 +12,8 @@ last_updated_date: 2019-08-05
 > Přeneseno z archivu webového portálu Přístupnost informací
 
 Pramatka všech standardů k přístupnosti mobilních platforem, tímhle to v EU v roce 2015 začalo...
-realizaci přístupnosti internetových stránek pro osoby se zdravotním postižením. 
+
+
 
 OBSAH
 
