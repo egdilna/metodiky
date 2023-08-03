@@ -22,7 +22,7 @@ Toto je kontrolní seznam a postup zejména využitelný pro architekty a odborn
 Tento postup se týká toho, proč a jak si má úřad vytvářet vlastní katalog služeb s vazbou na Katalog služeb veřejné správy a co s ním má dělat
 
 
-Postup najdete vždy v rámci [sekce Postupy na webu metodiky.egdilna.cz](https://metodiky.egdilna.cz/postupy)
+Postup najdete vždy v rámci [sekce Postupy na webu metodiky.egdilna.cz](https://metodiky.egdilna.cz/postupy/eg-postupy)
 
 Aktuální verze je na adrese
 
