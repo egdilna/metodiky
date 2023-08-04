@@ -30,7 +30,7 @@ Aktuální verze je na adrese
 
 ## Katalog služeb úřadu a Katalog služeb veřejné správy
 
-Pro orgán veřejné moci  je v některých případech vhodné si  vytvořit vlastní vnitřní katalog služeb, kterému říkáme Katalog služeb OVS nebo Katalog služeb úřadu. Jde o datovou evidenci, v níž se vedou údaje o
+Pro orgán veřejné moci  je v některých případech vhodné si  vytvořit vlastní vnitřní katalog služeb, kterému říkáme Katalog služeb OVM nebo Katalog služeb úřadu. Jde o datovou evidenci, v níž se vedou údaje o
 
 - službách veřejné správy, jež orgán veřejné moci poskytuje
 - službách veřejné správy, jež jsou poskytovány prostřednictvím orgánu veřejné moci
