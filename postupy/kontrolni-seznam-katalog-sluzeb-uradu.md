@@ -2,7 +2,7 @@
 layout: default
 title: Kontrolní seznam tvorby a údržby Katalogu služeb úřadu
 description: "Tento postup se týká toho, proč a jak si má úřad vytvářet vlastní katalog služeb s vazbou na Katalog služeb veřejné správy a co s ním má dělat"
-last_modified_date: 2023-04-20
+last_modified_date: 2023-08-04
 nav_order: 11
 parent: Kontrolní seznamy postupů
 grand_parent: Postupy
@@ -11,7 +11,7 @@ grand_parent: Postupy
 
 # Kontrolní seznam tvorby a údržby Katalogu služeb úřadu
 
-Verze 0.3
+Verze 0.4
 
 Zpracováno jako výstup projektu egdilna.cz a partnerů v rámci EG konkrétních postupů
 
@@ -30,17 +30,23 @@ Aktuální verze je na adrese
 
 ## Katalog služeb úřadu a Katalog služeb veřejné správy
 
-Orgán veřejné správy si musí vytvořit vlastní vnitřní katalog služeb, kterému říkáme Katalog služeb OVS nebo Katalog služeb úřadu. Jde o datovou evidenci, v níž se vedou údaje o
+Pro orgán veřejné moci  je v některých případech vhodné si  vytvořit vlastní vnitřní katalog služeb, kterému říkáme Katalog služeb OVM nebo Katalog služeb úřadu. Jde o datovou evidenci, v níž se vedou údaje o
 
 - službách veřejné správy, jež orgán veřejné moci poskytuje
-- službách veřejné správy, jež jsou poskytovány prostřednictvím orgánu veřejné správy
+- službách veřejné správy, jež jsou poskytovány prostřednictvím orgánu veřejné moci
 - Službách určených uživatelům, jež nejsou službami veřejné správy
 
 Všechny tyto služby je vhodné (a někdy i nutné) si vést ve svém katalogu a to zejména pro tyto potřeby:
 
 - U služeb, jež jsou poskytovány úřadem kde je zároveň ohlašovatelem, jde o jeho prvotní evidenci, ze které ohlašuje služby a úkony v rámci agendy v Katalogu služeb (pokud si o službě vede sám další informace jež nejsou v Katalogu služeb).
-- U všech služeb veřejné správy si sice základní údaje o službách a úkonech získá z Katalogu služeb, ale sám si u služeb musí vést údaje potřebné pro jeho fungování, jako je zodpovědný útvar, správce služby, správce informačního systému jež službu poskytuje či využívá, apod.
+- U všech služeb veřejné správy si sice základní údaje o službách a úkonech získá z Katalogu služeb veřejné správy, ale sám si u služeb musí vést údaje potřebné pro jeho fungování, jako je zodpovědný útvar, správce služby, správce informačního systému jež službu poskytuje či využívá, apod.
 - U služeb jež poskytuje klientům a uživatelům, i když nejsou službami veřejné správy, si musí vést údaje o službě samotné, o správci služby a o zodpovědných osobách, o nástrojích jež k dané službě potřebuje a také podklady pro řízení a hodnocení kvality služby v rámci řízení kvality úřadu.
+- v neposlední řadě je Katalog služeb úřadu správným zdrojem pro publikování customizovaných údajů o službách na web či portál daného úřadu.
+
+Katalog služeb úřadu je vhodné si zřídit a vést ve dvou základních situacích:
+
+1. Jsem-li větší úřad s vlastním portálem služeb či vlastními technickými prostředky pro zprostředkování a poskytování služeb klientům
+2. Jsem-li úřad, který sdružuje informace o službách i pro jiné úřady (zejména v rámci struktury samospráv) a budu jej tedy poskytovat jako prostředek i pro potřeby těchto úřadů
 
 ## Jak základně postupovat při tvorbě Katalogu služeb úřadu a jeho prvotním naplnění
 
