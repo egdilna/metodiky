@@ -1,4 +1,5 @@
 datum	text
+9.8.2023	Přidali jsme do metodik novou sekci Oblast Spisová služba, kde jsou metodiky k ESSL. Hodně se toho mění a MV dle našeho vzoru zpracovalo i detailní rozbory změn.
 4.8.2023	Aktualizovali jsme kontrolní seznam pro tvorbu a správu Katalogu služeb úřadu dle posledních poznatků a dohody s OHA
 27.4.2023	Teď se diagramy volají rovnou z našeho GIT repo, pokud je to možné. Takže už by se nemělo stávat, že se obrázek nenačte.
 16.04.2023	Připravili jsme pro vás nový postup a to k technické realizaci sdílení údajů v propojeném datovém fondu. Najdete ho v sekci Postupy v části kontrolních postupů. Jde o první public verzi, připomínky vítány.
