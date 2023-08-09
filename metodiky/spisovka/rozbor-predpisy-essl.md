@@ -5,6 +5,7 @@ description: "Ministerstvo vnitra zpracovalo rozbor a přehled změn legislativy
 parent: Oblast Spisová služba
 nav_order: 1
 grand_parent: Metodiky
+last_updated_date: 2023-08-09
 ---
 
 
@@ -15,8 +16,217 @@ Toto je dokument detailního rozboru změn v legislativních podzákonných pře
 
 Zdrojem pro tento detailní rozbor jsou dokumenty [Metodika ke změnám vyhlášky](https://www.mvcr.cz/soubor/zverejneni-metodickych-materialu-k-atestacim-essl-a-zmenam-legislativy-metodika-ke-zmenam-vyhlasky.aspx) a a [Popis změn v NSESSS](https://www.mvcr.cz/soubor/zverejneni-metodickych-materialu-k-atestacim-essl-a-zmenam-legislativy-popis-zmen-v-nsesss.aspx), které vydává Odbor archivnictví a spisové služby Ministerstva vnitea ČR.
 
-ℹ️ TZpracovatelem zdrojových dokumentů je Ministerstvo vnitra, Odbor archivnictví a spisové služby. Dokumenty byly zpracovány s inspirací v našich rozborech změny právních předpisů.
+ℹ️ Zpracovatelem zdrojových dokumentů je Ministerstvo vnitra, Odbor archivnictví a spisové služby. Dokumenty byly zpracovány s inspirací v našich rozborech změny právních předpisů.
 
+OBSAH DOKUMENTU
+
+- TOC
+{:toc}
+
+
+
+# Změny ve Vyhlášce o podrobnostech výkonu spisové služby
+
+
+Zásadní změny při výkonu spisové služby související s novelou vyhlášky č. 259/2012 Sb., o podrobnostech výkonu spisové služby, ve znění pozdějších předpisů, která byla změněna 
+vyhláškou č. 96/2023 Sb. 
+
+* Veřejnoprávní původci jsou povinni uvést výkon spisové služby do souladu se změnami ve vyhlášce v časovém období od 1. července 2023 do 31. prosince 2025 (čl. II Přechodná ustanovení vyhlášky č. 96/2023 Sb.). 
+
+
+## Změny pro veřejnoprávní původce se spisovou službou vedenou v elektronické  podobě v eSSL 
+ 
+### Příjem a označování dokumentů 
+
+
+* Do otisku podacího razítka uvede jednoznačný identifikátor nebo číslo jednací či evidenční číslo ze samostatné evidence dokumentů [§ 3 odst. 3 písm. c) vyhlášky].  Nově se při příjmu doručeného analogového dokumentu nezapočítávají listy jeho příloh [§ 3 odst. 3 písm. d) vyhlášky]. Eviduje se nově u příloh pouze jejich počet v analogové podobě a počet příloh v digitální podobě s jejich popisem [§ 3 odst. 3 písm. e) a f) vyhlášky]. 
+* Původce kontroluje, zda doručovaný dokument splňuje podmínky pro příjem dokumentů zveřejněné na jeho úřední desce či webových stránkách (§ 4 odst. 1 vyhlášky).  Nově je původcům umožněn příjem datových zpráv jinými prostředky elektronické komunikace, pokud je připouští. Umožňuje-li to povaha takového prostředku, potvrdí původce podle § 4 odst. 1 vyhlášky příjem dokumentu prostřednictvím takového prostředku komunikace (§ 4 odst. 9 vyhlášky). 
+* Při doručování digitálního dokumentu nebo příloh na přenosném technickém nosiči dat je původce povinen, je-li to technicky možné, zajistit vložení datových zpráv z přenosného nosiče do eSSL (§ 6 odst. 4 vyhlášky). 
+* Nově se může opatřit obálka doručeného analogového dokumentu jednoznačným identifikátorem namísto „jiného jednoznačného identifikátoru určeného původcem“ [§ 5 odst. 2 písm. d) vyhlášky].  
+* Dále se ruší povinnost převést analogovou obálku do digitální podoby, (§ 5 odst. 3 vyhlášky je zrušen). 
+* Jednoznačný identifikátor přidělený původcem doručenému analogovému dokumentu, který je následně převeden do digitální podoby podle § 6 odst. 2 vyhlášky, musí být zachován na převedeném dokumentu, stejné pravidlo platí i pro změnu datového formátu či převedení dokumentu v digitální podobě na dokument v analogové podobě-kromě převodu dle § 6 odst. 1 vyhlášky (podle § 7 odst. 5 vyhlášky). 
+
+
+### Evidence dokumentů 
+
+
+* Novelou se zpřesňují evidenční údaje o organizační části původce. Nově se uvádí nejen organizační část, které byl přidělen k vyřízení doručený dokument, ale je třeba označit také část původce, jež vytvořila vlastní dokument [10 odst. 1 písm. f) vyhlášky]. 
+* Nově se zavádí evidenční povinnost uvádět u všech dokumentů jejich pořadové číslo ve spisu [§ 10 odst. 2 písm. e) vyhlášky]. 
+* Nezbytné je uvést rovněž odkaz na adresáta ve jmenném rejstříku [§ 10 odst. 2 písm. f) vyhlášky]. 
+* Dalším povinným evidenčním údajem je datum odeslání dokumentu/spisu [§ 10 odst. 2 písm. g) vyhlášky]. 
+* Původce dále uvede počet komponent. Komponentou se rozumí dále nedělitelná část dokumentu, která je v digitální podobě, přičemž platí, že dokument v digitální podobě je tvořen alespoň jednou komponentou [§ 10 odst. 2 písm. h) vyhlášky]. 
+* Nově je stanoveno, že číslo jednací může být odvozeno od spisové značky s uvedením pořadového čísla dokumentu ve spisu nebo čísla listu dokumentu ve spisu (§ 11 odst. 2 poslední věta vyhlášky). 
+
+
+
+### Spis 
+
+
+* Každý dokument evidovaný v základní evidenční pomůcce musí být zařazen do spisu nejpozději před zahájením vyřizování spisu (§ 12 odst. 1 vyhlášky). 
+* Spisy se zařazují do věcné skupiny nebo do typového spisu. Vnitřní strukturu typového spisu tvoří součásti typového spisu stanovené původcem a dále díly typového spisu tvořené podle časového období stanoveného původcem (§ 12 odst. 2 vyhlášky). 
+* Původce nově přidělí spisový znak a skartační režim spisu (tj. skartační znak a skartační lhůtu) již při založení spisu. Spisový znak a skartační režim přiděluje podle konkrétní věcné skupiny spisu nebo součásti typového spisu podle svého spisového a skartačního plánu (§12 odst. 3 vyhlášky). 
+* Dokument přebírá spisový znak a skartační režim ze spisu, do něhož je zařazen. Je-li dokument přeřazen do jiného spisu, přebírá spisový znak a skartační režim nového spisu (§12 odst. 4 vyhlášky).  
+* Novým evidenčním údajem o spisu, který vede původce v eSSL nebo v samostatné evidenci dokumentů v elektronické podobě, je datum vyřízení spisu [§ 12 odst. 6 písm. e) vyhlášky]. 
+* Nově původce eviduje identifikátor spisu vybraného za archiválii, který přiděluje  Národní archiv nebo digitální archiv, pro všechny dokumenty zařazené do spisu [ § 12 odst. 6 písm. k) vyhlášky]; identifikátorem opatří nově rovněž obal na spise s dokumenty v analogové podobě, vykonává-li spisovou službu v elektronické podobě. 
+* Nově se stanoví minimální povinné evidenční údaje uvedené na analogovém obale, ve kterém jsou uloženy analogové dokumenty: stručný obsah spisu, spisová značka, spisový znak, skartační režim (tj. skartační znak a skartační lhůta) a identifikátor spisu, který musí být čitelný technickým prostředkem pro automatizovaný sběr dat (§ 12 odst. 5 vyhlášky). 
+* Původce zaznamená v evidenci kromě stávajícího údaje o vyřízení spisu nově údaj o uzavření spisu (§ 12 odst. 7 vyhlášky). 
+* Novelou byl odstraněn § 12 odst. 8 vyhlášky stanovující za standardní uspořádání analogových dokumentů ve spisu chronologické řazení, a to vzestupně nebo sestupně. 
+* Novela vyhlášky nestanoví konkrétní způsob tvorby spisu (bylo stanoveno v § 12 odst.  2 a 3 ve znění účinném ke dni 30. 6. 2023). 
+
+### Rozdělování a oběh dokumentů 
+
+
+
+* Nově se stanoví povinnost, v rámci oběhu dokumentů, identifikovat a sledovat úkony, které provedly nejen fyzické osoby ale také technické prostředky (§ 13 odst. 2 vyhlášky).  
+
+### Vyřizování dokumentů a spisů 
+
+* Vedle stávajícího způsobu vyznačení způsobu vyřízení dokumentu případně spisu na dokument je nově možné způsob vyřízení uvést do metadat dokumentu [§ 14 odst. 2 písm. d) vyhlášky]. 
+
+### Podrobnosti zpracování a struktura spisového a skartačního plánu 
+
+* Nově se zavádí do vyhlášky pojem typový spis. Typový spis obsahuje součásti typových spisů. Podle věcných charakteristik zpracovávaných spisů či typových spisů původce určí jednotlivé věcné skupiny, z nichž sestaví spisový a skartační plán. Věcné skupiny jsou uspořádány hierarchicky a to tak, aby spisy či typové spisy na nejnižší úrovni hierarchie obsahovaly spisy nebo typové spisy (lze uspořádat hierarchicky i součásti typového spisu). 
+* Pokud původce nevede v samostatné evidenci dokumentů spisy ani typové spisy, zařazuje dokumenty do věcné skupiny na nejnižší úrovni hierarchie. K věcným skupinám pro spisy přiřadí původce spisový znak a skartační režim. Spisový znak přidělí součásti typového spisu a součásti typového spisu na nejnižší úrovni přidělí skartační režim (§ 15 odst. 1 vyhlášky). 
+* Nově se ruší skartační znak „V“. Původce označí věcnou skupinu spisu nebo součást typového spisu obsahující spisy skartačním znakem „A“ v případě, že považuje spisy či příslušné součásti typových spisů označené tímto skartačním znakem za hodné trvalého uložení v archivu. Předpokládá-li původce u konkrétní věcné skupiny nebo součásti typového spisu, že spisy sem zařazené mohou být po uplynutí svých skartačních lhůt a zahájení skartačního řízení zničeny, použije skartační znak „S“ (§ 15 odst. 2 vyhlášky). 
+
+
+### Vyhotovování dokumentů 
+
+
+* Novela vyhlášky zařazuje nově povinné vyznačení spisové značky na původcem vyhotovovaný dokument, v případě, že povinně uváděné číslo jednací není odvozeno ze spisové značky [§ 16 odst. 2 písm. a) vyhlášky]. 
+* Namísto striktní povinnosti vyznačit na vyhotovovaném dokumentu číslo jednací nebo evidenční číslo ze samostatné evidence dokumentů, pod kterými je doručený dokument evidován u svého odesílatele, je nově zavedena povinnost vyznačit na vyhotovovaný dokument „identifikaci dokumentu z evidence dokumentů odesílatele, je-li vyhotovovaný dokument odpovědí na doručený dokument, a pokud je v doručeném dokumentu tento údaj uveden“ [§ 16 odst. 2 písm. b) vyhlášky]. 
+* Ustanovení § 16 odst. 2 písm. d), e) a f) vyhlášky ve znění účinném ke dni 30. 6. 2023, tj. vyznačování počtu a druhu příloh, počtu listů příloh v analogové podobě a počtu listů dokumentu v analogové podobě, se ruší.  
+* V  ustanovení § 16 odst. 5 vyhlášky, které se týká tvorby digitálního dokumentu, se zavádí nově pojem „komponenta“ namísto termínu „dokument“, přičemž komponentou se rozumí, v souladu s návrhem nového NSESSS, „jednoznačně vymezený proud bitů tvořící datový soubor charakterizovaný zpravidla formátem datového souboru, běžně zpracovávaným programovými aplikacemi, které umožňují provádět správu souborů, složek a disků tak, aby k nim bylo možné uživatelsky srozumitelně přistupovat a s nimi samostatně manipulovat (správce souborů). Komponentou může být i metasoubor zahrnující společné uložení dat a metadat (datový kontejner, například PDF/A-3, ZFO, ZIP), z kterého lze za pomocí k tomu určených programových aplikací vyčlenit v něm zapouzdřené datové soubory, se kterými lze pracovat jako se samostatnými komponentami podle věty první“. 
+
+
+### Podepisování dokumentů a užívání úředních razítek 
+
+* Novelou se zrušuje ustanovení § 17 odst. 4 vyhlášky ve znění účinném ke dni 30. 6. 2023, které stanovilo původcům povinnost vést evidenci certifikátů vydaných kvalifikovanými poskytovateli služeb vytvářejících důvěru nebo akreditovanými poskytovateli certifikačních služeb, na nichž jsou založeny jím užívané uznávané elektronické podpisy, uznávané elektronické pečetě a uznávané elektronické značky.  
+
+### Odesílání dokumentů 
+
+* Novelou bylo zrušeno ustanovení § 18 odst. 4 vyhlášky ve znění účinném ke dni 30. 6. 2023 týkající se povinnosti původců zajistit kontrolu případného výskytu škodlivého kódu před odesláním dokumentu. 
+
+### Ukládání dokumentů a spisů 
+
+* Nově se stanoví původcům povinnost zkontrolovat úplnost vyřízeného spisu ještě před jeho uzavřením (nikoliv teprve před jeho uložením; § 19 odst. 2 vyhlášky). Dále je stanovena obecná povinnost zkontrolovat povinné údaje bez jejich taxativního uvedení [tj. byly zrušeny části § 19 odst. 2 písm. a) až j) vyhlášky ve znění účinném ke dni 30. 6.  2023]. 
+
+### Postup při skartačním řízení 
+
+* Došlo ke zkrácení označení nadpisu § 20 vyhlášky, které nově zní: „Postup při skartačním řízení“ (původně bylo: “Postup při vyřazování dokumentů a podrobnosti skartačního řízení“). 
+* V ustanovení § 20 odst. 4 byla zrušena část ustanovení (předposlední věta) týkající se dokumentů označených skartačním znakem „V“. 
+* Dále byla zrušena část ustanovení § 21 odst. 2 písm. c) týkající se zařazení dokumentů se skartačním znakem „V“ mezi dokumenty se skartačními znaky „A“ či „S“. 
+
+### Spisová rozluka 
+
+* Nově se změnilo ustanovení § 22 odst. 1 vyhlášky, které stanoví původci povinnost vyhotovit předávací seznam všech dokumentů a spisů (nejen vyřízených dokumentů a uzavřených spisů), dále termín „druh“ dokumentu byl změněn na „typ“ dokumentu. Dále byla zrušena povinnost uvedená v poslední větě citovaného ustanovení vyhlášky, tj. předávací seznam již neobsahuje údaje o době vzniku předávaných vyřízených dokumentů a uzavřených spisů, včetně počtu listů a příloh, ani jména a podpisy fyzických osob odpovědných za provedení spisové rozluky. 
+
+### Výstupní datové formáty 
+
+* Ve všech odstavcích ustanovení § 23 týkající se výstupních datových formátů bylo slovo „dokument“ nahrazeno termínem „komponenta“. 
+
+### Jmenný rejstřík 
+
+* Ustanovení § 25 vyhlášky bylo přeformulováno, přičemž požadavek na určení fyzické osoby oprávněné k přístupu do jmenného rejstříku byl zrušen (§ 25 odst. 3 vyhlášky ve znění účinném ke dni 30. 6. 2023). 
+* Nově se najisto stanoví povinnost ověřit údaje ve jmenném rejstříku o každém odesílateli, který doručil původci dokument a o každém adresátovi, jemuž je dokument původcem doručován, případně osoby, jíž se dokument týká a původce shledal potřebu vést údaje o této osobě ve jmenném rejstříku ve shodě s § 64 odst. 5 AZ (§ 25 odst. 1 a 3 vyhlášky). 
+* Při odesílání dokumentu je adresát vybírán ze záznamů ve jmenném rejstříku (§ 25 odst.  2 vyhlášky). 
+
+
+## Změny pro veřejnoprávní původce se spisovou službou vedenou v listinné podobě. 
+
+Veřejnoprávní původce musí uvést výkon spisové služby do souladu s novelizovanými požadavky vyhlášky v období od 1. července 2023 do 31. prosince 2025 (čl. II Přechodná ustanovení vyhlášky č. 96/2023 Sb.). 
+
+### Příjem dokumentů 
+
+* Vyplněný otisk podacího razítka obsahuje (§ 3 odst. 3): 
+* nově se při příjmu doručeného analogového dokumentu nezapočítávají listy jeho příloh [§ 3 odst. 3 písm. d) vyhlášky]. 
+* Nově se může opatřit obálka doručeného analogového dokumentu jednoznačným identifikátorem dokumentu ve smyslu § 64 odst. 2AZ namísto „jiného jednoznačného identifikátoru určeného původcem“ [§ 5 odst. 2 písm. d) vyhlášky]. 
+
+### Označování dokumentů 
+
+* Jednoznačným identifikátorem je pro doručený dokument vyplněný otisk podacího razítka, případně jiný technologický prostředek obdobného určení jako podací razítko, kterým je dokument opatřen [§ 7 odst. 2 písm. a) vyhlášky]. 
+* Jednoznačným identifikátorem vlastního (vyhotoveného) dokumentu je číslo jednací nebo evidenční číslo ze samostatné evidence dokumentů, které je dokumentu přiděleno [podle § 7 odst. 2 písm. b) vyhlášky]. 
+
+### Evidence dokumentů 
+
+* Novela vyhlášky jednoznačně stanoví, že podací deník, jenž je základní evidenční pomůckou pro původce s listinnou spisovou službou, musí být veden od začátku jako kniha 
+  (nelze jej vést zprvu např. v SW Excel a na konci roku záznamy v tabulce vytisknout a svázat; § 8 odst. 1 vyhlášky)  
+* V podacím deníku se zpřesňují evidenční údaje o organizační části původce. Nově se zavádí povinnost evidovat údaje o organizační součásti původce či fyzické osobě, které vytvořily vlastní dokument [§ 10 odst. 1 písm. f) vyhlášky]. 
+* Do podacího deníku se nově povinně neuvádí počet a druh odeslaných příloh [§ 10 odst. 1 písm. h) bod 4 vyhlášky ve znění účinném ke dni 30. 6. 2023], lze tak činit dobrovolně.  Nově je stanoveno, že číslo jednací může být odvozeno od spisové značky s uvedením pořadového čísla dokumentu ve spisu nebo čísla listu dokumentu ve spisu (§ 11 odst. 2 poslední věta vyhlášky). 
+
+### Spis 
+
+* Každý dokument evidovaný v základní evidenční pomůcce musí být zařazen do spisu nejpozději před zahájením vyřizování spisu (§ 12 odst. 1 vyhlášky). 
+* Původce nově přidělí spisový znak a skartační režim spisu (tj. skartační znak a skartační lhůtu) již při založení spisu (§ 12 odst. 3 vyhlášky).  
+* Dokument přebírá spisový znak a skartační režim ze spisu, do něhož je zařazen. Je-li dokument přeřazen do jiného spisu, přebírá spisový znak a skartační režim nového spisu (§ 12 odst. 4 vyhlášky). 
+* Nově se stanoví minimální povinné evidenční údaje uvedené na analogovém obale, ve kterém jsou uloženy analogové dokumenty: stručný obsah spisu, spisová značka, spisový znak, skartační režim (tj. skartační znak a skartační lhůta; § 12 odst. 5 vyhlášky). 
+* Původce zaznamená v podacím deníku kromě stávajícího údaje o vyřízení spisu nově údaj o uzavření spisu (§ 12 odst. 7 vyhlášky). 
+* Novelou byl odstraněn § 12 odst. 8 vyhlášky ve znění účinném ke dni 30. 6. 2023 stanovující za standardní uspořádání analogových dokumentů ve spisu chronologické řazení, a to vzestupně nebo sestupně.  
+* Novela vyhlášky nestanoví konkrétní způsob tvorby spisu (§ 12 odst. 2 a 3 vyhlášky ve znění účinném ke dni 30. 6. 2023 byl odstraněn). 
+
+### Rozdělování a oběh dokumentů 
+
+* Nově je jednoznačně stanoveno, aby k rozdělování doručených dokumentů došlo až po jejich zaevidování do podacího deníku (§ 13 odst. 1 vyhlášky). 
+
+### Vyřizování dokumentů a spisů 
+
+Žádná zásadní změna nenastala. 
+
+### Podrobnosti zpracování a struktura spisového a skartačního plánu 
+
+* Podle věcných charakteristik zpracovávaných spisů původce určí jednotlivé věcné skupiny, z nichž sestaví spisový a skartační plán. Věcné skupiny jsou uspořádány hierarchicky a to tak, aby na nejnižší úrovni hierarchie obsahovaly spisy. Pokud původce nevede v samostatné evidenci dokumentů spisy, zařazuje dokumenty do věcné skupiny na nejnižší úrovni hierarchie.  
+* Nově se ruší skartační znak „V“. Původce označí věcnou skupinu spisu skartačním znakem „A“ v případě, že považuje spisy označené tímto skartačním znakem za hodné trvalého uložení v archivu. Předpokládá-li původce u konkrétní věcné skupiny, že spisy sem zařazené mohou být po uplynutí svých skartačních lhůt a zahájení skartačního řízení zničeny, použije skartační znak „S“ (§ 15 odst. 2 vyhlášky). 
+
+### Vyhotovování dokumentů 
+
+* Novela vyhlášky zařazuje nově povinné vyznačení spisové značky na původcem vyhotovovaný dokument, v případě, že povinně uváděné číslo jednací není odvozeno ze spisové značky [§ 16 odst. 2 písm. a) vyhlášky]. 
+* Namísto striktní povinnosti vyznačit na vyhotovovaném dokumentu číslo jednací nebo evidenční číslo ze samostatné evidence dokumentů, pod kterými je doručený dokument evidován u svého odesílatele, je nově zavedena povinnost vyznačit na vyhotovovaný dokument „identifikaci dokumentu z evidence dokumentů odesílatele, je-li vyhotovovaný dokument odpovědí na doručený dokument, a pokud je v doručeném dokumentu tento údaj uveden“ [§ 16 odst. 2 písm. b) vyhlášky]. 
+* Ustanovení § 16 odst. 2 písm. d), e) a f) vyhlášky ve znění účinném ke dni 30. 6. 2023, tj. vyznačování počtu a druhu příloh, počtu listů příloh v analogové podobě a počtu listů dokumentu v analogové podobě, bylo zrušeno. 
+
+### Podepisování dokumentů a užívání úředních razítek 
+
+Žádná zásadní změna nenastala. 
+
+### Odesílání dokumentů 
+
+Žádná zásadní změna nenastala. 
+
+### Ukládání dokumentů a spisů 
+
+* Nově se stanoví původcům povinnost zkontrolovat úplnost vyřízeného spisu ještě před jeho uzavřením (nikoliv teprve před jeho uložením; (§ 19 odst. 2 vyhlášky). Dále je stanovena obecná povinnost zkontrolovat povinné údaje bez jejich taxativního uvedení [tj. byly zrušeny části § 19 odst. 2 písm. a) až j) vyhlášky ve znění účinném ke dni 30. 6.   2023]. 
+* Původci nově evidují ve spisovně údaj o fyzickém uložení analogových částí spisů (§ 19 odst. 3 vyhlášky). 
+
+### Postup při skartačním řízení 
+
+* Došlo ke zkrácení označení nadpisu § 20 vyhlášky, které nově zní: „Postup při skartačním řízení“ (původně bylo uvedeno: “Postup při vyřazování dokumentů a podrobnosti skartačního řízení“). 
+* V ustanovení § 20 odst. 4 byla zrušena část ustanovení (předposlední věta) týkající se dokumentů označených skartačním znakem „V“. 
+* Dále byla zrušena část ustanovení § 21 odst. 2 písm. c) týkající se zařazení dokumentů se skartačním znakem „V“ mezi dokumenty se skartačními znaky „A“ či „S“. 
+
+### Spisová rozluka 
+
+* Nově došlo ke změně termínu „druh“ dokumentu na „typ“ dokumentu 
+
+
+# Souvislosti změn právního rámce pro spisovou službu
+
+### Atestace elektronických systémů spisové služby 
+    
+* Atesty provádí atestační středisko (Česká agentura pro standardizaci) ode dne 1. 7.    2023 
+* Atest má platnost 2 roky (§ 69d odst. 1 AZ). 
+* Je zakázáno ode dne 1. 7. 2024 veřejnoprávním původcům nabízet nebo dodávat eSSL, který nesplňuje požadavky AZ, vyhlášky podle § 70 odst. 1 a NSESSS. Ode dne 1. 7. 2024 může být porušením uvedeného ustanovení spáchán přestupek s pokutou až do výše 1 milionu Kč. (§ 74 odst. 11 a 12 ve znění účinném ke dni 1. 2. 2022) 
+* Bylo-li zjištěno, že eSSL nesplňuje zákonem stanovené požadavky, může původce takový systém používat nejvýše 1 rok ode dne zveřejnění informace o zneplatnění atestu ve Věstníku Ministerstva vnitra (§ 69d odst. 6 AZ). 
+
+ 
+### Veřejnoprávní původci, kteří mohou vést do konce roku 2025 spisovou službu v listinné podobě 
+
+Následující původci se musí připravit na změnu vedení spisové služby nejpozději od roku 2025:
+
+* státní podniky – původci uvedení v § 3 odst. 1 písm. e) AZ 
+* organizační složky územních samosprávných celků, vytvářejí-li dokumenty uvedené v přílohách č. 1 nebo 2. k tomuto zákonu – původci uvedení v § 3 odst. 1 písm. g) AZ  
+* právnické osoby zřízené nebo založené územními samosprávnými celky, vytvářejíli dokumenty uvedené v přílohách č. 1 nebo 2. k tomuto zákonu – původci uvedení v § 3 odst. 1 písm. h) AZ 
+* školy a školská zařízení s výjimkou mateřských škol, výchovných a ubytovacích zařízení a zařízení školního stravování (dále jen „školy“) – původci uvedení v § 3 odst. 1 písm. j) AZ 
+* veřejné výzkumné instituce – podle § 3 odst. 1 písm. l) AZ 
+* obce – původci uvedení v § 3 odst. 1 písm. f) AZ kromě krajů a hlavního města Prahy.  
 
 
 # Popis zásadních změn v národním standardu pro elektronické systémy spisové služby 

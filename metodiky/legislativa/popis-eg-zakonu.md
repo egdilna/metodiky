@@ -5,6 +5,7 @@ description: "Přehled co najdete v jakém EG zákoně ve formě jednoduchých a
 nav_order: 1
 parent: Oblast Legislativa
 grand_parent: Metodiky
+last_updated_date: 2023-02-01
 ---
 
 
