@@ -5,6 +5,7 @@ description: "Zákon o právu na digitální služby (12/2020) už mezi námi n�
 nav_order: 11
 parent: Oblast Legislativa
 grand_parent: Metodiky
+last_updated_date: 2023-08-23
 ---
 
 
@@ -38,6 +39,11 @@ OBSAH DOKUMENTU
 - Vymezuje pojmy jako je Digitální služba, Uživatel služby, Digitální jednání
 
 - definuje Katalog služeb jako součást Registru práv a povinností
+
+
+### § 2a Digitální a informační agentura
+
+Zákonem 471/2022 se v tomto paragrafu zřídila Digitální a informační agentura a stanovují se v něm obecné úkoly agentury.
 
 ### § 3 Právo na digitální službu
 
@@ -145,7 +151,7 @@ OBSAH DOKUMENTU
 
 - Stanovuje se nově povinnost všem správcům určených informačních systémů předložit Odboru hlavního architekta k posouzení soulad informačního systému před zahájením provozu, resp zahájením poskytování služby
 
-- Rozšiřují se povinnosti Ministerstvu vnitra
+- Rozšiřují se povinnosti Digitální a informační agentuře (původně Ministerstvu vnitra)
 
 - Likviduje se oblast legislativní regulace datových prvků a číselníků, neboť se nově jedná o část technických údajů v Registru práv a povinností
 
@@ -193,7 +199,7 @@ OBSAH DOKUMENTU
 
 - Rozšiřuje se forma poskytování výpisů z informačních systémů a poskytování údajů z informačních systémů, aby to bylo v souladu s PDS
 
-- Opravuje se zmocňovací ustanovení k vyhlášení prováděcích předpisů ministerstvem vnitra
+- Opravuje se zmocňovací ustanovení k vyhlášení prováděcích předpisů ministerstvem vnitra, nově DIA
 
 ### ČÁST ČTVRTÁ Změna správního řádu Zákon č. 500/2004 Sb.
 
@@ -215,7 +221,7 @@ OBSAH DOKUMENTU
 
 - Upravují se ustanovení o využívání zaručené elektronické identifikace v souvislosti s datovými schránkami a přístupem do Portálu občana či přístupem do dalších informačních systémů a rozšiřuje se tak jejich využívání ze strany klientů
 
-- Ministerstvo vnitra může nově vydávat elektronické prostředky
+- DIA (dříve Ministerstvo vnitra) může nově vydávat elektronické prostředky
 
 - Upravují se i některá další ustanovení, aby byla v souladu s PDS a aby prostřednictvím kontaktních míst a datových schránek bylo možno realizovat to co umožňuje PDS
 
@@ -339,7 +345,7 @@ OBSAH DOKUMENTU
 
 	- Možnost či povinnost správcům agendových informačních systémů určit údaje, které poskytují jiným agendám	
 
-	- Nová povinnost správcům předložit ke schválení ministerstvu vnitra rozsah údajů jež poskytují jiným agendám a povinnost ministerstva toto posoudit
+	- Nová povinnost správcům předložit ke schválení DIA rozsah údajů jež poskytují jiným agendám a povinnost ministerstva toto posoudit
 
 	- Propojení na ustanovení zákona o PDS k možnosti vládě určit poskytování údajů jiným agendám
 
@@ -347,7 +353,7 @@ OBSAH DOKUMENTU
 
 		- Úpravy ustanovení k Rejstříku informačních systémů
 
-		- Úpravy procesu ohlášení agendy a úpravy a zpřesnění principu zásahu ministerstva vnitra do ohlášení agendy
+		- Úpravy procesu ohlášení agendy a úpravy a zpřesnění principu zásahu ministerstva vnitra a DIA do ohlášení agendy
 
 		- Zrušení povinnosti oznámit počet úředníků vykonávajících danou roli při přihlášení k působnosti ze strany OVM vykonávajícího působnost
 
