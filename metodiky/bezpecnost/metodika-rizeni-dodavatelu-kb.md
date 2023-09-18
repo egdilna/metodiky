@@ -3,7 +3,7 @@ layout: default
 title: Průvodce řízením dodavatelů ve vztahu k bezpečnosti
 description: "Jedna ze zásadních metodik NÚKIBu nejen pro úŕady a veřejnoprávní subjekty, dokument Průvodce řízením dodavatelů ve vztahu k hodnocení rizik kybernetické bezpečnosti přináší komplexní vhled do problematiky řízení a vztahu dodavatelů v souladu s vyhláškou o KB a souvisejícími povinnostmi."
 nav_order: 2
-parent: Oblast Bezpečnosti
+parent: Oblast Bezpečnost
 grand_parent: Metodiky
 ---
 
