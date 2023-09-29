@@ -9,6 +9,7 @@ grand_parent: Metodiky
 
 
 
+
 Na webu Národní architektury jsou k dispozici [Návody pro práci s AIS RPP působnostní](https://archi.gov.cz/znalostni_baze#navody_pro_praci_s_ais_rpp_pusobnostni)
 
 [Agendový informační systém RPP Působnostní (AISP)](https://rpp-ais.egon.gov.cz/AISP/) je informační systém registru práv a povinností provozovaný Ministerstvem vnitra dle § 52a zákona č. 111/2009 Sb. o základních registrech, který slouží ke sběru a poskytování informací o orgánech veřejné moci, soukromoprávních uživatelích údajů, jimi vykonávaných agendách, poskytovaných službách a provozovaných informačních systémech. Jeho editory jsou OVM a SPUU. Pro rychlejší orientaci a usnadnění práce s AISP jsou k dispozici tyto návody:
