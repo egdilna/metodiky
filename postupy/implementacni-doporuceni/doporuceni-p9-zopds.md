@@ -1,0 +1,209 @@
+---
+layout: default
+title: Návrh implementace § 9 ZoPDS Právo na prokázání právní skutečnosti a souvisejících povinností
+parent: Implementační doporučení ZoPDS
+nav_order: 9
+---
+Toto je dokument Digitální a informační agentury zpracováný v rámci [Implementace povinností dle zákona o právu na digitální služby](https://archi.gov.cz/znalostni_baze:implementace_zopds?s[]=implementace%2A&s[]=z%C3%A1kona%2A&s[]=o%2A&s[]=pr%C3%A1vu%2A&s[]=na%2A&s[]=digit%C3%A1ln%C3%AD%2A)
+
+
+*§ 9*
+
+*Právo na prokázání právní skutečnosti*
+
+*(1) Uživatel služby má právo prokázat nebo osvědčit právní skutečnost*
+
+*a) odkazem na údaje vedené v základním registru nebo agendovém
+informačním systému a zpřístupněné orgánu veřejné moci pro výkon agendy,
+nebo*
+
+*b) výpisem z informačního systému veřejné správy9) v elektronické
+podobě, který zaručuje věrohodnost původu a neporušenost obsahu výpisu.*
+
+*(2) Uživatel služby není povinen pro uplatnění svého práva, splnění
+povinnosti nebo doložení právní skutečnosti, která se ho týká,
+předkládat rozhodnutí, doklad, průkaz, osvědčení nebo poskytnout jiný
+údaj, pokud prokázal svoji totožnost a údaje o něm nebo o jeho právech,
+povinnostech nebo právních skutečnostech, které se ho týkají, jsou
+vedeny v základním registru nebo agendovém informačním systému a jsou
+orgánu veřejné moci zpřístupněné pro výkon agendy.*
+
+*(3) Předloží-li uživatel služby dokumenty v elektronické podobě, orgán
+veřejné moci není oprávněn žádat tytéž dokumenty v listinné podobě.
+Požadavky jiných právních předpisů na vznik nebo podobu elektronických
+dokumentů, kterými se právně jedná, tím nejsou dotčeny10).*
+
+*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
+
+*9) § 14 zákona č. 111/2009 Sb., o základních registrech, ve znění
+pozdějších předpisů.*
+
+*10) Například § 5 až 11 zákona č. 297/2016 Sb.*
+
+# Předpoklady a souvislosti návrhu
+
+Tento dokument vychází z následujících předpokladů:
+
+1.  Digitální a informační agentura (dále jen „DIA") připravila tento
+    dokument na základě vlastních zkušeností a diskuzí vedených v rámci
+    meziresortní pracovní skupiny organizované DIA k výkladu zákona
+    12/2020 Sb., o právu na digitální služby (dále jen „ZoPDS").
+
+2.  DIA není orgánem příslušným k poskytnutí závazného výkladu ZoPDS.
+    Dokument tak přináší výhradně návrh řešení.
+
+3.  Dokument prezentuje návrh pro první etapu implementace ustanovení
+    ZoPDS, který z pohledu některých orgánů veřejné moci (dále jen
+    „OVM") nemusí zcela bez dalšího naplňovat znění ZoPDS. Jde však o
+    návrh řešení, který se za současného stavu relevantních právních
+    předpisů a technických řešení jeví jako nejpřívětivější pro
+    uživatele a jako jednoduché, účelné, efektivní a hospodárné z
+    pohledu technického řešení pro OVM.
+
+4.  Je na odpovědnosti každého jednotlivému OVM, jaké řešení pro
+    implementaci tohoto ustanovení zvolí, tedy zda bude v rámci první
+    etapy implementace tohoto ustanovení následovat dále prezentovaný
+    návrh řešení a následně hledat řešení, které bude z jeho pohledu
+    vhodnější, anebo pro implementaci zvolí zcela jiné řešení.
+
+5.  Pokud s některým z dále prezentovaným závěrem nesouhlasil některý
+    z členů meziresortní pracovní skupiny k výkladu ZoPDS, byl mu dán
+    prostor v tomto dokumentu svůj odlišný závěr uvést.
+
+# Právo prokázat nebo osvědčit právní skutečnost
+
+Zákon zde vychází z povinnosti využívat údaje vedené v základním
+registru nebo agendovém informačním systému, respektive nevyžadovat tyto
+údaje od uživatele (v § 7 odst. 1 ZoPDS). Zároveň navazuje na právo
+uživatele na zápis práva, povinnosti nebo právní skutečnosti do registru
+práv a povinností dle § 8 ZoPDS.
+
+Ustanovení dává uživateli právo prokázat nebo osvědčit právní
+skutečnost, a to:
+
+a)  odkazem na údaje vedené v základním registru nebo agendovém
+    informačním systému a zpřístupněné OVM pro výkon agendy, nebo
+
+b)  výpisem z informačního systému veřejné správy v elektronické podobě,
+    který zaručuje věrohodnost původu a neporušenost obsahu výpisu.
+
+Právními skutečnostmi jsou takové objektivní skutečnosti, se kterými
+právo spojuje právní následky, tedy vznik, změnu nebo zánik práv a
+povinností.
+
+Pro obě výše uvedené možnosti platí, že by je uživatel měl využít až
+v případě, kdy nejsou údaje o právních skutečnost OVM již dostupné dle §
+7 odst. 1 ZoPDS. Ve spojení s § 6 odst. 2 správního řádu tedy OVM musí
+nejprve ověřit, zda má ke konkrétním údajů přístup na základě zákona či
+souhlasu uživatele.
+
+V principu by nicméně nemělo docházet k tomu, že OVM nemá zpřístupněné
+údaje potřebné pro výkon agendy. Zákonem č. 261/2021 Sb. byly ve většině
+zákonů zrušeny položkové skladby s výčty údajů zpřístupněných pro
+konkrétní agendu a údaje jsou OVM zpřístupňovány mimo jiné také na
+základě potřeby podle § 54 odst. 1 písm. d) a odst. 2 zákona o
+základních registrech. Povinnost využívat údaje vedené v základním
+registru nebo agendovém informačním systému upravuje také § 5 zákona o
+základních registrech. OVM by tedy primárně neměl požadovat údaje od
+uživatele, resp. jej žádat o souhlas s využitím údajů, ale o
+zpřístupnění požádat. Pokud nějaké údaje navíc OVM zpřístupněné nemá,
+měl by také v této souvislosti OVM zvážit, zda je skutečně pro výkon
+agendy potřebuje a zda nejsou od uživatele vyžadovány nadbytečně.
+
+## Odkaz na údaje
+
+V návaznosti na § 7 odst. 1 ZoPDS dává tento zákon v § 9 odst. 1 písm.
+a) právo pro prokázání právní skutečnosti pouze odkázat na příslušný
+údaj vedený v základním registru nebo agendovém informačním sytému.
+Podmínkou je, aby tento údaj byl OVM zpřístupněný pro výkon agendy anebo
+na základě souhlasu uživatele služby. Může jít o údaje vedené na základě
+zákona či zapsané na základě práva na zápis práva, povinnosti nebo
+právní skutečnosti do registru práv a povinností dle § 8 ZoPDS.
+
+## Prokázání výpisem z ISVS
+
+Nebude-li mít OVM přístup k údajům na základě zákona ani souhlasu
+uživatele, má uživatel právo osvědčit právní skutečnosti výpisem z
+informačního systému veřejné správy v elektronické podobě, který
+zaručuje věrohodnost původu a neporušenost obsahu výpisu.
+
+Věrohodnost původu znamená, že lze zaručit, že výpis pochází od
+subjektu, který má pravomoc jej vydat. Neporušeností obsahu výpisu je
+myšleno zajištění integrity výpisu, tedy skutečnost, že jeho obsah nebyl
+od vydání změněn. Věrohodnosti a neporušenosti obsahu výpisu bude
+dosaženo jeho opatřením kvalifikovanou elektronickou pečetí a
+kvalifikovaným elektronickým časovým razítkem u nichž lze ověřit
+platnost.
+
+Výpis bude uživateli může být vydán na základě § 14 zákona o základních
+registrech. Zároveň lze podle § 9 zákona č. 365/2000 Sb. o informačních
+systémech veřejné správy, opatřit výpisy z informačních systémů, které
+jsou veřejnými evidencemi, rejstříky nebo seznamy. Z informačních
+systémů veřejné správy nebo jejich částí, které jsou neveřejnými
+evidencemi, rejstříky nebo seznamy, však vydávají správci úplný nebo
+částečný výpis, pokud tak stanoví zvláštní právní předpis.
+
+# Splnění povinnosti předkládat rozhodnutí, doklad, průkaz, osvědčení nebo poskytnout jiný údaj
+
+Uživatel služby nemá povinnost nadbytečně předkládat rozhodnutí, doklad,
+průkaz, osvědčení nebo poskytnout jiný údaj za splnění dvou podmínek:
+
+1.  prokázání totožnosti,
+
+2.  údaje o uživateli nebo o jeho právech, povinnostech nebo právních
+    skutečnostech, které se ho týkají, jsou vedeny v základním registru
+    nebo agendovém informačním systému a jsou OVM zpřístupněné pro výkon
+    agendy na základě zákona anebo souhlasu uživatele.
+
+Ohledně přístupnosti platí, co bylo uvedeno dříve. V principu by neměl
+nastat případ, kdy OVM nemá údaje zpřístupněny, resp. pokud taková
+situace nastane, měl by OVM o zpřístupnění požádat.
+
+Uživatel prokáže totožnost prostřednictvím elektronické identifikace
+(srov. § 2 zákona č. 250/2017 Sb., o elektronické identifikaci). Zákon
+zde na rozdíl od § 4 odst. 1 písm. d), § 4 odst. 3 však výslovně
+uživatele neodkazuje výhradně na prokázání totožnosti prostřednictvím
+elektronické identifikace, uživatel tak bude moci prokázat totožnost i
+jiným způsobem.
+
+# Rovnocennost listinných a elektronických dokumentů
+
+V posledním odstavci tohoto ustanovení zákon pamatuje na čl. 46 nařízení
+eIDAS, podle kterého elektronickému dokumentu nesmějí být upírány právní
+účinky a nesmí být odmítán jako důkaz v soudním a správním řízení pouze
+z toho důvodu, že má elektronickou podobu. Podobně například § 3026
+občanského zákoníku zdůrazňuje rovnost listinných a elektronických
+dokumentů, jelikož podle něj nevylučuje-li to povaha písemnosti, platí
+ustanovení občanského zákoníku o listině obdobně i pro jinou písemnost
+bez zřetele na její podobu.
+
+Zákon zde odkazuje na § 5 až 11 zákona č. 297/2016 Sb., o službách
+vytvářejících důvěru pro elektronické transakce. Je tedy v případě
+elektronického dokumentu třeba jej opatřit příslušnou úrovní
+elektronického podpisu, pečeti či časového razítka. Půjde-li o listinné
+dokumenty převáděné do elektronické podoby, bude v závislosti na
+charakteru úkonu a způsobu jeho učinění v některých případech třeba
+provést autorizovanou konverzi dokumentu ve smyslu § 22 odst. 1 písm. a)
+zákona č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi
+dokumentů.
+
+# Návrhy na novelizaci ZoPDS
+
+Z diskuzí v rámci meziresortní pracovní skupiny k ZoPDS vyplynulo, že by
+mohla by být zvážena novelizace § í ZoPDS, resp. dalších předpisů či
+prováděcích právních předpisů, která může spočívat zejména v:
+
+1.  Měla by být zvážena novelizace agendových předpisů, z nichž některé
+    mohou nadbytečně výslovně požadovat předložení rozhodnutí, dokladu,
+    průkazu, osvědčení nebo jiného údaje, které jsou jinak dostupné OVM
+    v základních registrech či agendových informačních systémech.
+
+2.  V souvislosti s předchozím bodem by také měl být vyjasněn poměr mezi
+    výčty různých údajů, skutečností či dalších dokladů ve zvláštních
+    právních předpisech vyžadovaných k doložení v rámci podání a § 7 a §
+    9 ZoPDS.
+
+3.  Lze zvážit vypuštění § 9 odst. 1 písm. a) ZoPDS s ohledem na to, že
+    tuto situaci již řeší § 7 odst. 1 ZoPDS.
+
+# Odlišné stanovisko členů meziresortní pracovní skupiny 
