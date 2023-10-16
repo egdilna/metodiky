@@ -3,6 +3,8 @@ layout: default
 title: Návrh implementace § 7 ZoPDS Právo na využívání údajů a souvisejících povinností 
 parent: Implementační doporučení ZoPDS
 nav_order: 7
+last_modified_date: 2023-10-16
+grand_parent: Postupy
 ---
 Toto je dokument Digitální a informační agentury zpracováný v rámci [Implementace povinností dle zákona o právu na digitální služby](https://archi.gov.cz/znalostni_baze:implementace_zopds?s[]=implementace%2A&s[]=z%C3%A1kona%2A&s[]=o%2A&s[]=pr%C3%A1vu%2A&s[]=na%2A&s[]=digit%C3%A1ln%C3%AD%2A)
 
