@@ -1,10 +1,11 @@
 ---
 layout: default
-title: "Informační koncepce České republiky (verze 2022)"
+title: "Informační koncepce České republiky (verze 2023)"
 description: "IKČR je základním strategickým a koncepčním dokumentem závazným pro všechny orgány veřejné správy v České republice. Obsahuje národní cíle, architektonické principy a zásady pro řízení ICT. Toto je přehlednější verze originálu z webu NAEG, ale je a bude obsahově shodná a lépe se s ní pracuje."
 parent: Oblast Strategie a řízení
 nav_order: 1
 grand_parent: Metodiky
+last_updated_date: 2023-12-07
 ---
 
 
@@ -152,6 +153,14 @@ Zajistit jednoduchou, přívětivou a rychlou úhradu platby v rámci služby ve
 ### Dílčí cíl 3.12: Stavebnice sdílených řešení
 
 Vznik a podpora výstavby a provozu sdílených služeb, které stavebnicovým způsobem umožní poskládat (způsobem, obvyklým v prostředí cloudu) potřebný základ aplikace z existujících a odzkoušených funkčních celků.
+
+### Dílčí cíl 3.13: Udržitelná technologie a infrastruktura	
+Zajištění toho, aby digitální infrastruktury a technologie veřejné správy, včetně jejich dodavatelských řetězců, byly udržitelnější a odolnější a (aby) účinněji využívaly energii a zdroje, s cílem minimalizovat svůj negativní environmentální a sociální dopad a přispívat k udržitelnému oběhovému (cirkulárnímu) a klimaticky neutrálnímu hospodářství a společnosti v souladu se Zelenou dohodou pro Evropu.
+
+### Dílčí cíl 3.14: Národní infrastruktura pro prostorové informace
+
+Zajištění koordinovaného efektivního rozvoje národní infrastruktury pro prostorové informace tak, aby bylo zajištěno sdílené využívání prostorových dat a služeb informační společnosti nad prostorovými daty napříč agendami a činnostmi veřejné správy s předpokladem vzniku synergických efektů.
+
 
 ## Cíl IKČR č. 4: ZVÝŠENÍ KAPACIT A KOMPETENCÍ ZAMĚSTNANCŮ VE VEŘEJNÉ SPRÁVĚ
 
@@ -350,6 +359,14 @@ Digitální služby a komponenty informačních systémů, realizované na míru
 ## Architektonický princip P20: Metriky digitálních služeb (Digital Service Performance)
 
 Každý nový nebo podstatně změněný proces veřejné správy a každý nový nebo podstatně změněný informační systém na jeho podporu musí být navržen tak, aby umožňoval měřit využívání, výkon a efektivitu všech agend a služeb VS.
+
+## Architektonický princip P21: Udržitelnost digitálních služeb a zařízení (Digital service and equipment Sustainability)
+
+Každé nové nebo podstatně změněné řešení pro digitální služby bude využívat udržitelných digitálních technologií, které mají minimální negativní dopad na životní prostředí a na společnost; budeme i ve VS podporovat standardy a označení udržitelnosti pro digitální produkty a služby.
+
+## Architektonický princip P22: Svoboda volby (Freedom of choice)
+
+Každý by měl mít možnost využívat u služeb VS výhod algoritmických systémů a systémů umělé inteligence, a to i tím, že bude činit vlastní informovaná rozhodnutí v digitálním prostředí, přičemž bude chráněn před riziky a újmou, pokud jde o jeho zdraví, bezpečí a základní práva.
 
 # Zásady řízení
 
