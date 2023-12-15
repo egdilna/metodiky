@@ -3,9 +3,10 @@ layout: default
 title: Metodika využívání eGovernment cloudu pro veřejnou správu
 description: "Digitální a informační agentura vydává metodické dokumenty k oblasti cloud computingu určené nejen pro orgány veřejné správy a poskytovatele cloudu."
 nav_order: 1
-parent: Oblast Cloud computingu
+parent: Oblast Cloud computing
 grand_parent: Metodiky
 ---
+
 
 
 
