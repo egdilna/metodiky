@@ -2,16 +2,17 @@
 layout: default
 title: Návodné postupy pro evidenci základních znalostí
 description: "Tento postup se týká toho, s jakými základními legislativními požadavky musejí být nově v souladu informační systémy veřejné správy a na co se tedy připravit."
-last_modified_date: 2023-12-20
+description: "Tento postup se týká toho, jak si může úřad zpracovat a vést své základní znalosti pro dobré řízení architektonických znalostí v rámci modelu i mimo něj a jaké takové znalosti bude potřebovat."
+last_modified_date: 2023-12-28
 nav_order: 11
 parent: Kontrolní seznamy postupů
 grand_parent: Postupy
 ---
 
 
-# Kontrolní seznam požadavků na soulad ISVS se základními požadavky legislativy
+# Kontrolní seznam postupy zpracování a vedení základních znalostí potřebných pro byznysovou architekturu úřadu
 
-Verze 1.0.1
+Verze 1.0.2
 
 Zpracováno jako výstup projektu egdilna.cz a partnerů v rámci EG konkrétních postupů
 
@@ -19,13 +20,14 @@ Zpracováno jako výstup projektu egdilna.cz a partnerů v rámci EG konkrétní
 
 Toto je kontrolní seznam a postup zejména využitelný pro architekty a odborníky pro ICT v úřadech. Udává podrobnosti a návody, jak postupovat v jednotlivé oblasti.
 
-Tento postup se týká toho, s jakými základními legislativními požadavky musejí být nově v souladu informační systémy veřejné správy a na co se tedy připravit.
+Tento postup se týká toho, jak si může úřad zpracovat a vést své základní znalosti pro dobré řízení architektonických znalostí v rámci modelu i mimo něj a jaké takové znalosti bude potřebovat
+
 
 Postup najdete vždy v rámci [sekce Postupy na webu metodiky.egdilna.cz](https://metodiky.egdilna.cz/postupy/eg-postupy)
 
 Aktuální verze je na adrese
 
-[https://metodiky.egdilna.cz/postupy/kontrolni-seznam-pozadavky-ISVS-nove](https://metodiky.egdilna.cz/postupy/kontrolni-seznam-pozadavky-ISVS-nove)
+[https://metodiky.egdilna.cz/postupy/kontrolni-seznam-znalosti-zakladni](https://metodiky.egdilna.cz/postupy/kontrolni-seznam-znalosti-zakladni)
 
 
 ## Udržování základních znalostí
