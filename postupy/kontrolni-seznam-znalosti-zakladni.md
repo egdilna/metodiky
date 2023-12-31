@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Návodné postupy pro evidenci základních znalostí
-description: "Tento postup se týká toho, s jakými základními legislativními požadavky musejí být nově v souladu informační systémy veřejné správy a na co se tedy připravit."
 description: "Tento postup se týká toho, jak si může úřad zpracovat a vést své základní znalosti pro dobré řízení architektonických znalostí v rámci modelu i mimo něj a jaké takové znalosti bude potřebovat."
 last_modified_date: 2023-12-28
 nav_order: 11
@@ -31,6 +30,12 @@ Aktuální verze je na adrese
 
 
 ## Udržování základních znalostí
+
+Úřad musí disponovat nějakými základními znalostmi o své struktuře a svém fungování a o využívání informačních technologií. Bez toho by se úřad špatně řídil, dělal by se špatně jeho rozvoj a také by nešlo splnit strategické dlouhodobé řízení informačních technologií a informačních systémů.
+
+Bavíme-li se  o informačních technologiích, nesmíme zapomenout na to, že tyto technologie musí sloužit nějakému účelu. Tento účel je součástí byznysové architektury, nikoli v aplikační architektury. Zatímco u struktury aplikací je celkem jasné, o co jde a jakým způsobem by se to mohlo či mělo řešit, stran základních znalostí byznysové  architektury zde panuje poměrně silná nevědomost, neboť jsme to na národní úrovni nedostatečně vysvětlovali.
+
+Níže tedy najdete několik ryze praktických postupů a návodů, jak si efektivně a zároveň dostatečně vést základní znalosti o tom, co úřad má dělat a jakým způsobem řešit to nejzásadnější, co potřebuje znát právě z byznysové  architektury.
 
 ## Návodné postupy
 
