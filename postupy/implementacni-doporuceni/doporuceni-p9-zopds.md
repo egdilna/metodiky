@@ -9,38 +9,6 @@ grand_parent: Postupy
 Toto je dokument Digitální a informační agentury zpracováný v rámci [Implementace povinností dle zákona o právu na digitální služby](https://archi.gov.cz/znalostni_baze:implementace_zopds?s[]=implementace%2A&s[]=z%C3%A1kona%2A&s[]=o%2A&s[]=pr%C3%A1vu%2A&s[]=na%2A&s[]=digit%C3%A1ln%C3%AD%2A)
 
 
-*§ 9*
-
-*Právo na prokázání právní skutečnosti*
-
-*(1) Uživatel služby má právo prokázat nebo osvědčit právní skutečnost*
-
-*a) odkazem na údaje vedené v základním registru nebo agendovém
-informačním systému a zpřístupněné orgánu veřejné moci pro výkon agendy,
-nebo*
-
-*b) výpisem z informačního systému veřejné správy9) v elektronické
-podobě, který zaručuje věrohodnost původu a neporušenost obsahu výpisu.*
-
-*(2) Uživatel služby není povinen pro uplatnění svého práva, splnění
-povinnosti nebo doložení právní skutečnosti, která se ho týká,
-předkládat rozhodnutí, doklad, průkaz, osvědčení nebo poskytnout jiný
-údaj, pokud prokázal svoji totožnost a údaje o něm nebo o jeho právech,
-povinnostech nebo právních skutečnostech, které se ho týkají, jsou
-vedeny v základním registru nebo agendovém informačním systému a jsou
-orgánu veřejné moci zpřístupněné pro výkon agendy.*
-
-*(3) Předloží-li uživatel služby dokumenty v elektronické podobě, orgán
-veřejné moci není oprávněn žádat tytéž dokumenty v listinné podobě.
-Požadavky jiných právních předpisů na vznik nebo podobu elektronických
-dokumentů, kterými se právně jedná, tím nejsou dotčeny10).*
-
-*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
-
-*9) § 14 zákona č. 111/2009 Sb., o základních registrech, ve znění
-pozdějších předpisů.*
-
-*10) Například § 5 až 11 zákona č. 297/2016 Sb.*
 
 ### Právo prokázat nebo osvědčit právní skutečnost
 

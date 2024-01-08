@@ -10,11 +10,7 @@ grand_parent: Postupy
 Toto je dokument Digitální a informační agentury zpracováný v rámci [Implementace povinností dle zákona o právu na digitální služby](https://archi.gov.cz/znalostni_baze:implementace_zopds?s[]=implementace%2A&s[]=z%C3%A1kona%2A&s[]=o%2A&s[]=pr%C3%A1vu%2A&s[]=na%2A&s[]=digit%C3%A1ln%C3%AD%2A)
 **§ 10**
 
-**Právo na zápis kontaktního údaje**
 
-*(1) Uživatel služby má právo na zápis kontaktního údaje o elektronické adrese nebo telefonním čísle (dále jen „kontaktní údaj“) do základního registru právnických osob, podnikajících fyzických osob a orgánů veřejné moci nebo do registru obyvatel pro zasílání informací podle tohoto zákona a pro zasílání dalších informací souvisejících s poskytováním digitální služby, jejichž okruh si vybere.*
-
-*(2) Právo na zápis kontaktního údaje uplatní uživatel služby u Agentury. Agentura zveřejní elektronický formulář k zápisu kontaktního údaje na portálu veřejné správy a zřídí službu pro zasílání informací na kontaktní údaje.*
 
 ### Obecná východiska
 

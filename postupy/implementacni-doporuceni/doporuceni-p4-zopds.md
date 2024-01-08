@@ -10,43 +10,6 @@ grand_parent: Postupy
 Toto je dokument Digitální a informační agentury zpracováný v rámci [Implementace povinností dle zákona o právu na digitální služby](https://archi.gov.cz/znalostni_baze:implementace_zopds?s[]=implementace%2A&s[]=z%C3%A1kona%2A&s[]=o%2A&s[]=pr%C3%A1vu%2A&s[]=na%2A&s[]=digit%C3%A1ln%C3%AD%2A)
 
 
-(1) *Uživatel služby má právo činit digitální úkon vůči orgánu veřejné
-    moci prostřednictvím*
-
-    a.  *své datové schránky,*
-
-    b.  *kontaktního místa veřejné správy v případě digitálního úkonu, o
-        kterém tak stanoví prováděcí právní předpis,*
-
-    c.  *sítě elektronických komunikací dokumentem podepsaným uznávaným
-        elektronickým podpisem nebo opatřeným uznávanou elektronickou
-        pečetí za podmínek stanovených jinými zákony,*
-
-    d.  *informačního systému veřejné správy umožňujícího prokázání
-        totožnosti uživatele služby s využitím elektronické
-        identifikace, autorizaci digitálního úkonu uživatelem služby a
-        zpětné prokázání projevu vůle uživatele služby učinit digitální
-        úkon, nebo*
-
-    e.  *jiného způsobu, pokud tak stanoví právní předpis.*
-
-(2) *Nestanoví-li zákon výslovně závaznou podobu úkonu vůči orgánu
-    veřejné moci, má uživatel služby právo činit úkon jako digitální
-    úkon.*
-
-(3) *Orgány veřejné moci zveřejňují prostřednictvím Agentury
-    elektronické formuláře, které po prokázání totožnosti uživatele
-    služby s využitím elektronické identifikace zajistí automatizované
-    doplnění údajů nezbytných pro poskytnutí digitální služby vedených v
-    základním registru nebo agendovém informačním systému, které jsou
-    orgánu veřejné moci zpřístupněné pro výkon agendy, nebo využívaných
-    orgánem veřejné moci na základě souhlasu uživatele služby. Formát,
-    strukturu a obsah formuláře stanoví orgán veřejné moci zveřejněním.
-    Nezveřejní-li orgán veřejné moci elektronický formulář, má uživatel
-    služby právo učinit digitální úkon podle své volby v jakémkoli
-    výstupním datovém formátu podle zákona upravujícího archivnictví a
-    spisovou službu.*
-
 ### Obslužné kanály pro podání -- učinění úkonu
 
 Zákon definuje celkem 5 možných způsobů učinění úkonu. Jelikož jde o

@@ -10,33 +10,6 @@ Toto je dokument Digitální a informační agentury zpracováný v rámci [Impl
 
 
 
-*(1) Stanoví-li právní předpis požadavek úředního ověření vlastnoručního
-podpisu nebo uznávaného elektronického podpisu, považuje se za splněný
-využitím elektronického podpisu na dokumentu nedílně spojeném*
-
-*a) s kvalifikovaným elektronickým podpisem osoby oprávněné provádět
-ověřování pravosti podpisu, která postupem podle jiného právního
-předpisu8) ověřila, že podepisující dokument před ní podepsal nebo uznal
-podpis za vlastní, a kvalifikovaným elektronickým časovým razítkem,
-nebo*
-
-*b) se záznamem informačního systému veřejné správy opatřeným
-kvalifikovanou elektronickou pečetí a kvalifikovaným elektronickým
-časovým razítkem jeho správce o provedení elektronické identifikace
-podepisujícího prostřednictvím kvalifikovaného systému elektronické
-identifikace s úrovní záruky vysoká.*
-
-*(2) Stanoví-li právní předpis požadavek úředního ověření podpisu,
-považuje se za splněný využitím uznávaného elektronického podpisu, pokud
-lze s využitím údajů základního registru obyvatel (dále jen \"registr
-obyvatel\") nebo portálu veřejné správy ověřit, že kvalifikovaný
-certifikát pro elektronický podpis, na jehož základě podepisující
-vytvořil uznávaný elektronický podpis na dokumentu, patří
-podepisujícímu.*
-
-*(3) Ustanovení § 6 odst. 1 písm. b) a § 6 odst. 2 se nepoužijí pro
-plnou moc k právnímu jednání podle § 441 odst. 2 poslední věty
-občanského zákoníku.*
 
 ### Obecné předpoklady úředního ověření elektronického podpisu
 

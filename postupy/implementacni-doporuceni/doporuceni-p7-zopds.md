@@ -10,28 +10,7 @@ grand_parent: Postupy
 Toto je dokument Digitální a informační agentury zpracováný v rámci [Implementace povinností dle zákona o právu na digitální služby](https://archi.gov.cz/znalostni_baze:implementace_zopds?s[]=implementace%2A&s[]=z%C3%A1kona%2A&s[]=o%2A&s[]=pr%C3%A1vu%2A&s[]=na%2A&s[]=digit%C3%A1ln%C3%AD%2A)
 
 
-*§ 7*
 
-*Právo na využívání údajů*
-
-*(1) Orgán veřejné moci nevyžaduje údaje vedené v základním registru
-nebo agendovém informačním systému, které jsou mu zpřístupněné pro výkon
-agendy nebo na základě souhlasu uživatele služby.*
-
-*(2) Uživatel služby má právo udělit souhlas s využíváním údajů o sobě,
-o svých právech a povinnostech nebo právních skutečnostech, které se ho
-týkají, vedených v základním registru nebo agendovém informačním
-systému; orgán veřejné moci je povinen tyto údaje využívat.*
-
-*(3) Uživatel služby může udělit souhlas k využívání údajů v rozsahu a
-trvání podle své volby na základě vlastního rozhodnutí nebo na základě
-žádosti orgánu veřejné moci. V rozsahu uděleného souhlasu se neuplatní
-povinnost mlčenlivosti orgánu veřejné moci. Uživatel služby je oprávněn
-souhlas kdykoliv odvolat.*
-
-*(4) Souhlas uživatele služby k využívání údajů se podává Agentuře.
-Agentura zveřejní elektronický formulář k udělení a odvolání souhlasu na
-portálu veřejné správy.*
 
 ### Povinnost využívat údaje
 

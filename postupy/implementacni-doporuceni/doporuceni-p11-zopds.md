@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Návrh implementace § 1 ZoPDS Právo na informace v souvislosti s poskytováním digitálních služeb a souvisejících povinností 
+title: Návrh implementace § 11 ZoPDS Právo na informace v souvislosti s poskytováním digitálních služeb a souvisejících povinností 
 parent: Implementační doporučení ZoPDS
 nav_order: 11
 last_modified_date: 2024-01-08
