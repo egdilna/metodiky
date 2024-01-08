@@ -25,11 +25,15 @@ Postup najdete vždy v rámci [sekce Postupy na webu metodiky.egdilna.cz](https:
 
 Aktuální verze je na adrese
 
-<[>https://metodiky.egdilna.cz/postupy/kontrolni-seznam-katalog-zameru>)
+<https://metodiky.egdilna.cz/postupy/kontrolni-seznam-katalog-zameru>
 
 ## 🖋 Co je Katalog záměrů a k čemu má sloužit
 
 ## 🖋 Postup jak vytvořit katalog záměrů a co v něm vést
+
+Katalog záměrů je jednoduchá evidence v úřadu, která vzniká s přípravou první verze informační koncepce a dále je udržovaná a aktualizovaná pro každou další aktualizaci informační koncepce orgánu veřejné správy. 
+Záměry mohou, ale nemusí být konkrétní projekty, většinou jde o obecnější prvky, ze kteráych se teprve projekty, které se sledují a řídí příslušnými procesy projektového řízení.
+V rámci informační koncepce orgánu veřejné správy má vznikat evidence záměrů jako realizace cílů ke zlepšení, tedy realizace potřeby změny.
 
 ## 🖋 Jak využívat již fungující Katalog záměrů
 
