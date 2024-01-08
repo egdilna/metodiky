@@ -33,37 +33,8 @@ volby uživatele služby zasláním do datové schránky, na kontaktní místo
 veřejné správy nebo zpřístupněním prostřednictvím portálu veřejné
 správy.*
 
-# Předpoklady a souvislosti návrhu
 
-Tento dokument vychází z následujících předpokladů:
-
-1.  Digitální a informační agentura (dále jen „DIA") připravila tento
-    dokument na základě vlastních zkušeností a diskuzí vedených v rámci
-    meziresortní pracovní skupiny organizované DIA k výkladu zákona
-    12/2020 Sb., o právu na digitální služby (dále jen „ZoPDS").
-
-2.  DIA není orgánem příslušným k poskytnutí závazného výkladu ZoPDS.
-    Dokument tak přináší výhradně návrh řešení.
-
-3.  Dokument prezentuje návrh pro první etapu implementace ustanovení
-    ZoPDS, který z pohledu některých orgánů veřejné moci (dále jen
-    „OVM") nemusí zcela bez dalšího naplňovat znění ZoPDS. Jde však o
-    návrh řešení, který se za současného stavu relevantních právních
-    předpisů a technických řešení jeví jako nejpřívětivější pro
-    uživatele a jako jednoduché, účelné, efektivní a hospodárné z
-    pohledu technického řešení pro OVM.
-
-4.  Je na odpovědnosti každého jednotlivému OVM, jaké řešení pro
-    implementaci tohoto ustanovení zvolí, tedy zda bude v rámci první
-    etapy implementace tohoto ustanovení následovat dále prezentovaný
-    návrh řešení a následně hledat řešení, které bude z jeho pohledu
-    vhodnější, anebo pro implementaci zvolí zcela jiné řešení.
-
-5.  Pokud s některým z dále prezentovaným závěrem nesouhlasil některý
-    z členů meziresortní pracovní skupiny k výkladu ZoPDS, byl mu dán
-    prostor v tomto dokumentu svůj odlišný závěr uvést.
-
-# Obecná zákonná východiska
+### Obecná zákonná východiska
 
 ZoPDS v případě osvědčení digitálního úkonů rozlišuje mezi dvěma
 subjekty, které osvědčení vystavují:
@@ -111,7 +82,7 @@ potvrzení o doručení:
     elektronickou adresu podatelny dle § 4 odst. 8 Vyhlášky č. 259/2012
     Sb., o podrobnostech výkonu spisové služby.
 
-# Kanál doručení osvědčení
+### Kanál doručení osvědčení
 
 Volba doručovacího kanálu by měla náležet uživateli (v limitech
 předchozího bodu). Základním smyslem a účelem osvědčení je poskytnout
@@ -174,7 +145,7 @@ efektivně či plnění určených úkolů tím nejhospodárnějším způsobem 
 nastíněným postupem se podle našeho názoru dostojí smyslu vystavování
 osvědčení za použití minimálních nákladů na straně veřejné správy.
 
-# Zveřejnění formuláře ve vztahu k osvědčení
+### Zveřejnění formuláře ve vztahu k osvědčení
 
 Ustanovení § 4 odst. 3 umožňuje zveřejnit prostřednictvím Agentury
 elektronické formuláře. Formát, strukturu a obsah formuláře stanoví
@@ -189,7 +160,7 @@ náležitostí, které má následně obsahovat osvědčení, je nutné zveřejn
 formuláře, resp. upravit jejich obsah tak, aby mohlo být bezodkladně po
 provedení úkonu tímto formulářem vystaveno osvědčení.
 
-# Co osvědčení osvědčuje
+### Co osvědčení osvědčuje
 
 Osvědčení potvrzuje neodmítnutí příjmu, neodmítnutí původu, integritu
 dat a důvěryhodnost. Nejde tedy o důkaz, že úkon byl proveden řádně
@@ -219,7 +190,7 @@ zpracování těchto zařaditelné žádosti. Tuto povinnost tak nebude OVM mít
 pouze v případě, že agendový zákon nestanoví, že určitý úkon nebude
 poskytovaný jako digitální služba (viz předchozí odstavec).
 
-# Jaké má osvědčení náležitosti
+### Jaké má osvědčení náležitosti
 
 Zákon podobu osvědčení nestanoví, ale stanovuje jeho náležitosti:
 
@@ -262,7 +233,7 @@ mít formát typu PDF/A-3 a pro strojové zpracování obsahovat XML soubor.
 Samozřejmě informace v obou formátech si musí odpovídat, za což je OVM
 zodpovědný.
 
-## Doba uložení/poskytování osvědčení
+### Doba uložení/poskytování osvědčení
 
 ZoPDS ve své konečné podobě dobu uložení ani zpětného poskytnutí nijak
 neupravuje (v prvních návrzích legislativního procesu tuto dobu
@@ -274,7 +245,7 @@ spisové službě.
 
 Osvědčení tedy nelze ihned po vystavení „zapomenout".
 
-# Příklady realizace osvědčení
+### Příklady realizace osvědčení
 
 Realizace osvědčení je jako příklad uvedena zde
 <https://archi.gov.cz/znalostni_baze:osvedceni#priklad_osvedceni>
@@ -283,83 +254,3 @@ Konkrétní realizace z Magistrátu hl. města Prahy vypadá následovně:
 
 ![](media/image2.emf){width="6.3in" height="8.632639982502187in"}
 
-# Návrhy na novelizaci ZoPDS
-
-Za účelem nalezení řešení, které zachová smysl a účel osvědčení o
-digitálním úkonu, přinese uživateli co nejvyšší komfort při zachování
-jeho práv, a které bude pro OVM jednoduché, účelné, efektivní a
-hospodárné, měla by být zvážena novelizace § 5 ZoPDS. Ta může spočívat
-zejména v:
-
-1.  Výslovném stanovení toho, že oznámení předávané do datové schránky
-    podle § 20 odst. 1 zákona č. 300/2008 Sb. a potvrzení o doručení
-    dokumentu na elektronickou adresu podatele dle § 4 odst. 8 vyhlášky
-    č. 259/2012 Sb., o podrobnostech výkonu spisové služby, budou
-    považovány za osvědčení ve smyslu § 5 ZoPDS.
-
-2.  Vyjasnění povinnosti poskytnout osvědčení bezodkladně za situace,
-    kdy OVM nezná volbu uživatele o prostředku k poskytnutí osvědčení.
-
-3.  Vyjasnění skutečnosti, zda OVM, kteří nejsou veřejnoprávními původci
-    vystavují osvědčení až na základě žádosti uživatele a případně pro
-    obě skupiny zakotvit, že osvědčení vystavují až na základě žádosti
-    uživatele.
-
-4.  Vyjasnění, které OVM vydává uživateli služby osvědčení, pokud mezi
-    poskytnutím digitální služby stojí další strana. Typicky se jedná o
-    přenesenou působnost či poskytování služeb na víceagendovém portále.
-    Stejná nejasnost však panuje i při poskytování služby na kontaktním
-    místě veřejné správy.
-
-5.  Výslovným zakotvením toho, že uživatel učinil volbou kanálu
-    digitálního úkonu cestu, kterou se mu má zpět doručit osvědčení a to
-    včetně samoobslužného portálu (případnou realizací tohoto bodu by
-    byly vyřešeny i body 1. a 2.).
-
-6.  Vytvoření nového práva, respetive rozšíření současného § 5, o
-    možnost nahlížení na celý proces vyřizování služby. Uživateli je
-    nyní dáno pouze právo držet důkaz o tom, že bylo učiněno podání, ale
-    nemá žádným způsobem garantováno, že jeho podání je kompletní a
-    zahajuje se vyřízení dané služby. Podobně mu není garantována
-    možnost nahlížení v průběhu vyřizování ani popsáno, jak má služba
-    vůči uživateli končit.
-
-# Odlišné stanovisko členů meziresortní pracovní skupiny 
-
-## Ministerstvo dopravy
-
-V poslední verzi výkladového podkladu k § 5 zákona č. 12/2020 Sb., o
-právu na digitální služby a o změně některých zákonů, ve znění
-pozdějších předpisů, (dále jen „zákon o právu na digitální služby") je v
-bodě 2 (Kanál doručení osvědčení) uvedeno, že „\[J\]ako jediné vhodné
-řešení se tedy nabízí poskytnout uživateli osvědčení tím stejným
-kanálem, kterým učinil úkon, protože uživatel si zvolil pro sebe
-nejvhodnější kanál komunikace, a dá se očekávat, že chce tím stejným
-kanálem i obdržet rovněž vyrozumění o provedení úkonu -- tedy
-osvědčení.". S tímto tvrzením se i nadále neztotožňujeme, neboť takový
-výklad zákon o právu na digitální služby jednoduše nepřipouští. Ačkoliv
-je možné připustit (jak je uvedeno dále ve výkladovém podkladu), že při
-dodržení nastíněného postupu se dostojí účelu § 5, samotný normativní
-text jednoznačně stanoví, že osvědčení o digitálním úkonu poskytuje
-orgán veřejné moci podle volby uživatele služby zasláním do datové
-schránky, na kontaktní místo veřejné správy nebo zpřístupněním
-prostřednictvím portálu veřejné správy. Má-li být dosaženo sledovaného
-účelu, je tedy potřeba patřičným způsobem zákon změnit a nedopouštět se
-příliš kreativního výkladu, který je v příslušné zákonné úpravě nemá
-oporu. Výklad každého ustanovení musí respektovat meze příslušného
-normativního textu.
-
-[^1]: V případě, že bude doručeno do nepříslušné datové schránky, platí
-    jistá omezení pro např. fikci doručení, avšak judikaturou je obecně
-    přijímán princip materiálního doručení, tj. jestliže se mohl adresát
-    s danou písemností seznámit, tak je účinně doručená, a to i přesto,
-    že nebyl dodržen postup dle správního řádu.
-
-    Nejvyšší soud dospěl k závěru, že účinnost doručení písemnosti do
-    datové schránky coby účastníka, která byla zřízena pro jinou
-    činnost, než v rámci jaké vystupuje osoba v daném řízení před
-    soudem, nastane v okamžiku, kdy se do datové schránky přihlásí jako
-    oprávněná osoba. Fikce doručení podle 17 odst. 4 zákona o
-    elektronických úkonech nepřichází v případě doručování písemnosti do
-    nepříslušné datové schránky v úvahu. (rozsudek NS spis. zn. 23 Cdo
-    1850/2015, ze dne 6. 9. 2016.)

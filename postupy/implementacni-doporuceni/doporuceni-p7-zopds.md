@@ -6,6 +6,7 @@ nav_order: 7
 last_modified_date: 2023-10-16
 grand_parent: Postupy
 ---
+
 Toto je dokument Digitální a informační agentury zpracováný v rámci [Implementace povinností dle zákona o právu na digitální služby](https://archi.gov.cz/znalostni_baze:implementace_zopds?s[]=implementace%2A&s[]=z%C3%A1kona%2A&s[]=o%2A&s[]=pr%C3%A1vu%2A&s[]=na%2A&s[]=digit%C3%A1ln%C3%AD%2A)
 
 
@@ -32,37 +33,7 @@ souhlas kdykoliv odvolat.*
 Agentura zveřejní elektronický formulář k udělení a odvolání souhlasu na
 portálu veřejné správy.*
 
-# Předpoklady a souvislosti návrhu
-
-Tento dokument vychází z následujících předpokladů:
-
-1.  Digitální a informační agentura (dále jen „DIA") připravila tento
-    dokument na základě vlastních zkušeností a diskuzí vedených v rámci
-    meziresortní pracovní skupiny organizované DIA k výkladu zákona
-    12/2020 Sb., o právu na digitální služby (dále jen „ZoPDS").
-
-2.  DIA není orgánem příslušným k poskytnutí závazného výkladu ZoPDS.
-    Dokument tak přináší výhradně návrh řešení.
-
-3.  Dokument prezentuje návrh pro první etapu implementace ustanovení
-    ZoPDS, který z pohledu některých orgánů veřejné moci (dále jen
-    „OVM") nemusí zcela bez dalšího naplňovat znění ZoPDS. Jde však o
-    návrh řešení, který se za současného stavu relevantních právních
-    předpisů a technických řešení jeví jako nejpřívětivější pro
-    uživatele a jako jednoduché, účelné, efektivní a hospodárné z
-    pohledu technického řešení pro OVM.
-
-4.  Je na odpovědnosti každého jednotlivému OVM, jaké řešení pro
-    implementaci tohoto ustanovení zvolí, tedy zda bude v rámci první
-    etapy implementace tohoto ustanovení následovat dále prezentovaný
-    návrh řešení a následně hledat řešení, které bude z jeho pohledu
-    vhodnější, anebo pro implementaci zvolí zcela jiné řešení.
-
-5.  Pokud s některým z dále prezentovaným závěrem nesouhlasil některý
-    z členů meziresortní pracovní skupiny k výkladu ZoPDS, byl mu dán
-    prostor v tomto dokumentu svůj odlišný závěr uvést.
-
-# Povinnost využívat údaje
+### Povinnost využívat údaje
 
 ZoPDS v § 7 odst. 1 předepisuje OVM povinnost využívat údaje vedené
 v základním registru nebo agendovém informačním systému, respektive
@@ -129,7 +100,7 @@ iniciativou, kdy si OVM projde veškeré po uživateli požadované údaje a
 zjistí, zda se nedají obstarat z jiného agendového informačního systému,
 se eliminuje celá potřeba souhlasů.**
 
-# Souhlas uživatele služby
+### Souhlas uživatele služby
 
 Pokud OVM nemá údaje o uživateli služby zpřístupněné pro výkon agendy
 v agendovém informačním systému či základním registru, může uživatel
@@ -189,7 +160,7 @@ na zodpovědnosti OVM spravující agendy. Jedná se o řešení, které má bý
 pouze dočasné a nemá nahrazovat správnou komunikaci pomocí propojených
 informačních systémů přes referenční rozhraní veřejné správy.
 
-# Souhlas na základě žádosti OVM
+### Souhlas na základě žádosti OVM
 
 Krom vlastní iniciativy může uživatele o souhlas s užitím jeho údajů
 požádat také OVM. Z povahy věci se tato žádost může týkat pouze údajů,
@@ -200,7 +171,7 @@ uvedeno v předchozích bodech, včetně toho, že OVM by měl primárně žád
 o zpřístupnění údajů na základě potřeby ve smyslu § 54 odst. 1 písm. d)
 a odst. 2 zákona o základních registrech.
 
-# Odvolání souhlasu
+### Odvolání souhlasu
 
 Souhlas s užitím údajů je také kdykoliv odvolatelný. Odvolat jej by mělo
 být možné stejně snadným způsobem, jako v případě udělení souhlasu. Po
@@ -209,7 +180,7 @@ užívat. Odvolání se nemůže dotýkat těch údajů, které má OVM zpříst
 k výkonu agendy na základě zákona. Údaje, které byly ze strany OVM
 použity do odvolání souhlasu, odvoláním také nejsou dotčeny.
 
-# Formulář k udělení a odvolání souhlasu
+### Formulář k udělení a odvolání souhlasu
 
 Souhlas uživatel se má podle odst. 4 podávat k Digitální a informační
 agentuře, která k udělení souhlasu a jeho odvolání zveřejňuje formulář
@@ -228,29 +199,3 @@ V současné chvíli má DIA Portálu občana zpřístupněný pouze formulář
 poskytnutí údajů z registru obyvatel jiné osobě § 58a zák. o zákl.
 registrech a navazující správu souhlasů.
 
-# Návrhy na novelizaci ZoPDS
-
-Z diskuzí v rámci meziresortní pracovní skupiny k ZoPDS vyplynulo, že by
-mohla by být zvážena novelizace § 7 ZoPDS, resp. dalších předpisů či
-prováděcích právních předpisů, která může spočívat zejména v:
-
-1.  Mělo být zváženo, zda možnost udělit souhlas uživatele údajů není
-    obsolentní vzhledem k současnému zákonnému přístupu ke
-    zpřístupňování údajů v základních registrech. Pokud bude tato
-    shledána jako obsolentní, pak by mělo dojít k vypuštění právní
-    úpravy udělování souhlasu s využitím údajů.
-
-2.  Pokud bude právní úprava udělování souhlasu zachována, měla by být
-    současná právní úprava doplněna tak, aby byla zajištěna funkčnost
-    tohoto mechanismu.
-
-3.  Měl by být vyjasněn poměr mezi výčty různých údajů, skutečností či
-    dalších dokladů ve zvláštních právních předpisech vyžadovaných
-    k doložení v rámci podání a § 7 a § 9 ZoPDS.
-
-4.  Měla by být zvážena novelizace agendových předpisů, z nichž některé
-    mohou nadbytečně výslovně požadovat předložení údajů, které jsou
-    jinak dostupné OVM v základních registrech či agendových
-    informačních systémech.
-
-# Odlišné stanovisko členů meziresortní pracovní skupiny 

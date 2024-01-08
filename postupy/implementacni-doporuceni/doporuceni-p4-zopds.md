@@ -47,37 +47,7 @@ Toto je dokument Digitální a informační agentury zpracováný v rámci [Impl
     výstupním datovém formátu podle zákona upravujícího archivnictví a
     spisovou službu.*
 
-# Předpoklady a souvislosti návrhu
-
-Tento dokument vychází z následujících předpokladů:
-
-1.  Digitální a informační agentura (dále jen „DIA") připravila tento
-    dokument na základě vlastních zkušeností a diskuzí vedených v rámci
-    meziresortní pracovní skupiny organizované DIA k výkladu zákona
-    12/2020 Sb., o právu na digitální služby (dále jen „ZoPDS").
-
-2.  DIA není orgánem příslušným k poskytnutí závazného výkladu ZoPDS.
-    Dokument tak přináší výhradně návrh řešení.
-
-3.  Dokument prezentuje návrh pro první etapu implementace ustanovení
-    ZoPDS, který z pohledu některých orgánů veřejné moci (dále jen
-    „OVM") nemusí zcela bez dalšího naplňovat znění ZoPDS. Jde však o
-    návrh řešení, který se za současného stavu relevantních právních
-    předpisů a technických řešení jeví jako nejpřívětivější pro
-    uživatele a jako jednoduché, účelné, efektivní a hospodárné z
-    pohledu technického řešení pro OVM.
-
-4.  Je na odpovědnosti každého jednotlivému OVM, jaké řešení pro
-    implementaci tohoto ustanovení zvolí, tedy zda bude v rámci první
-    etapy implementace tohoto ustanovení následovat dále prezentovaný
-    návrh řešení a následně hledat řešení, které bude z jeho pohledu
-    vhodnější, anebo pro implementaci zvolí zcela jiné řešení.
-
-5.  Pokud s některým z dále prezentovaným závěrem nesouhlasil některý
-    z členů meziresortní pracovní skupiny k výkladu ZoPDS, byl mu dán
-    prostor v tomto dokumentu svůj odlišný závěr uvést.
-
-# Obslužné kanály pro podání -- učinění úkonu
+### Obslužné kanály pro podání -- učinění úkonu
 
 Zákon definuje celkem 5 možných způsobů učinění úkonu. Jelikož jde o
 právo subjektu, není možné jej splnit aplikováním pouze jednoho kanálu,
@@ -123,7 +93,7 @@ službou. Každý úřad by měl mít svůj samoobslužný portál a rozhodován
 tedy pouze o tom, zda se vyplatí digitalizovat konkrétní službu a na
 portál ji umístit.
 
-## Posuzování hospodárnosti při zpřístupnění ISVS pro digitální úkon
+### Posuzování hospodárnosti při zpřístupnění ISVS pro digitální úkon
 
 OVM mají obecnou povinnost nakládat se svěřenými prostředky hospodárně,
 efektivně a účelně. Hospodárností je takové použití veřejných prostředků
@@ -191,7 +161,7 @@ uznávaný elektronický podpis či datovou schránku. Jelikož však jsou tyto
 náklady velmi špatně vyčíslitelné, dáváme je spíše jako inspiraci,
 kterou je také možné použít.
 
-# Samoobslužný portál
+### Samoobslužný portál
 
 Portál je vnímán jako celý funkční celek obsahující Front-end (logika
 zobrazující chování směrem ke klientovi) i Back-end (logika realizující
@@ -341,7 +311,7 @@ scénáři:
 
 5)  Klient není subjektem údajů v ROB, je na portálu poněkolikáté
 
-# Elektronické formuláře
+### Elektronické formuláře
 
 Pro digitalizaci služeb je třeba zajistit správný vstup strukturovaných
 dat. K tomu slouží elektronické formuláře. Ovšem ne každý elektronický
@@ -353,7 +323,7 @@ elektronické formuláře měly umět automaticky předvyplňovat data na
 základě přihlášení přes elektronickou identitu. Musí být schopné získat
 alespoň základní údaje ze základních registrů a interních systémů úřadu.
 
-## Elektronický dokument:
+#### Elektronický dokument:
 
 -   Elektronickým dokumentem se dle nařízení eIDAS a zákona o
     archivnictví a spisové službě myslí „jakýkoli obsah uchovávaný v
@@ -369,7 +339,7 @@ alespoň základní údaje ze základních registrů a interních systémů úř
     různých softwarových aplikací, například textových editorů,
     tabulkových procesorů, grafických programů apod.
 
-## Elektronický formulář:
+#### Elektronický formulář:
 
 -   Elektronický formulář je interaktivní nástroj, který slouží k
     získání dat od uživatelů prostřednictvím webového rozhraní. Jedná se
@@ -436,7 +406,7 @@ Minimální požadavky na elektronický formulář jsou následující: 
         elektronický podpis s ROB, budou muset na straně OVM probíhat
         úkony vedoucí k jednoznačnému ztotožnění podatele.
 
-## Přílohy podání
+#### Přílohy podání
 
 Vyžaduje-li úkon v rámci digitální služby přílohy, je nutné myslet
 především na to, že veškeré údaje/informace, které by měly být obsahem
@@ -450,7 +420,7 @@ veřejné správy, je důležité také v rámci úkonu vědět, zda se vyžadu
 jako příloha originální dokument nebo kopie -- z čehož plyne požadavek
 na uživatele například v rámci autorizované konverze.
 
-# Poplatky
+### Poplatky
 
 *Správní úřad sníží poplatek o 20 %, nejvýše však o 1000 Kč, pokud je
 žádost nebo jiný návrh k provedení úkonu podán na elektronickém
@@ -467,7 +437,7 @@ správního poplatku podle zákona o správních poplatcích. Tj. z poplatku
 za úkon, nikoliv třeba z místního poplatku podle zák. o místních
 poplatcích.
 
-# Poměr správního řádu a ZoPDS
+### Poměr správního řádu a ZoPDS
 
 Podle ustanovení § 37 odst. 4 správního řádu je podání možno učinit
 písemně nebo ústně do protokolu anebo v elektronické podobě, přičemž za
@@ -490,108 +460,3 @@ Vedlo toho však ještě § 37 odst. 4 SŘ umožňuje k zachování lhůty i
 učinění nepodepsaného podání, a to za podmínek stanovených v tomto
 ustanovení.
 
-# Návrhy na novelizaci ZoPDS
-
-Za účelem nalezení řešení, které zachová smysl a účel učinění
-digitálního úkonu, přinese uživateli co nejvyšší komfort při zachování
-jeho práv, a které bude pro OVM jednoduché, účelné, efektivní a
-hospodárné, měla by být zvážena novelizace § 4 ZoPDS. Ta může spočívat
-zejména v:
-
-1.  Přehodnocení, zda mají být veškeré digitální úkony dostupné všemi
-    vyjmenovanými kanály. Především s ohledem na využívanost některých
-    úkonů by při implementaci všech kanálů docházelo k nehospodárným
-    výdajům na straně veřejných financí. Zároveň je však nutné zachovat
-    to, že každé OVM má povinnost mít veškeré kanály implementované a
-    rozhodování by se mělo činit jen nad konkrétními úkony, nikoliv nad
-    implementací kanálu jako celku.
-
-2.  Upravit či dovysvětlit rozpor mezi § 14 odst. 7 ZoPDS, kdy nařízení
-    vlády má stanovit seznam služeb dostupných na kontaktním místě
-    veřejné správy a § 8a odst. 1 zákona č. 365/2000 Sb. o informačních
-    systémech veřejné správy, který stanovuje, že podání prostřednictvím
-    kontaktních míst veřejné správy lze činit pouze v rozsahu stanoveném
-    jinými právními předpisy
-
-3.  Vypuštění věty druhé z ustanovení § 4 odst. 3 ZoPDS, podle níž
-    formát, strukturu a obsah formuláře stanoví orgán veřejné moci
-    zveřejněním. Daná věta nemá žádný přínos, a to i ve světle pojednání
-    obsaženého ve výkladovém podkladu (vizte odstavec třetí v kapitole
-    4.2 (Elektronický formulář)), neboť pro adresáty (uživatele služby)
-    je rozhodující, že bude umožněno učinit úkony prostřednictvím
-    zveřejněných elektronických formulářů.
-
-# Odlišné stanovisko členů meziresortní pracovní skupiny 
-
-## Ministerstvo dopravy
-
-Podle § 4 odst. 1 písm. d) zákona č. 12/2020 Sb., o právu na digitální
-služby a o změně některých zákonů, ve znění pozdějších předpisů, (dále
-jen „zákon o právu na digitální služby") má uživatel služby právo činit
-digitální úkon vůči orgánu veřejné moci prostřednictvím informačního
-systému veřejné správy umožňujícího prokázání totožnosti uživatele
-služby s využitím elektronické identifikace, autorizaci digitálního
-úkonu uživatelem služby a zpětné prokázání projevu vůle uživatele služby
-učinit digitální úkon. Ve výkladovém podkladu zpracovaném Digitální
-a informační agenturou (dále jen „agentura") je uvedeno, že „\[K\]anál
-informačního systému veřejné správy umožňující elektronické prokázání
-totožnosti (neboli portál) je vhodný pouze u těch úkonů, u kterých se dá
-daná investice obhájit z pohledu účelnosti, účinnosti a efektivnosti
-(3E)". Výkladový podklad v této souvislosti odkazuje též na Příručku
-plánování digitalizace služeb veřejné správy České republiky. **Žádáme o
-vysvětlení**, jaký je pro toto tvrzení dán **právní základ** (tedy
-o jaké konkrétní ustanovení kterého právního předpisu se toto tvrzení
-opírá). Ustanovení § 4 zákona o právu na digitální služby zakotvuje
-právo uživatele služby činit digitální úkon vůči orgánu veřejné moci a
-je nezbytné (a to i podle výkladového podkladu) umožnit mu **zvolit si
-ze všech zde uvedených kanálů** ten, který mu nejvíc vyhovuje. Zakotvení
-tohoto práva je základním cílem tohoto ustanovení. Zatímco v případě
-některých z kanálů uvedených ve výčtu (vizte § 4 odst. 1 písm. a) až e)
-zákona o právu na digitální služby) jsou stanoveny **limity jejich
-využití** (vizte například písmeno b), podle něhož je právo učinit
-digitálně úkon prostřednictvím kontaktního místa veřejné správy dáno
-pouze tehdy, stanoví-li to o tomto úkonu prováděcí právní předpis, nebo
-písmeno e), podle něhož lze činit digitální úkon jiným způsobem, ovšem
-jen pokud tak stanoví právní předpis), **u písmene d)** **žádné
-omezení** pro využití portálového způsobu učinění digitálního úkonu
-**dáno není**. **Domníváme se, že takové omezení nelze dovozovat ani z §
-13 zákona o právu na digitální služby**. Podle § 13 uvedeného zákona
-orgán veřejné moci zpřístupní digitální službu uživateli služby bez
-závislosti na konkrétní platformě či technologii, ledaže by takové
-řešení bylo nepřiměřeně ekonomicky náročné, nesplňovalo požadavky na
-bezpečnost informačního systému veřejné správy nebo mu bránil jiný
-právním předpisem chráněný veřejný zájem. Dané ustanovení tedy zakotvuje
-právo uživatele při jeho komunikaci s orgány státu na užívání různých
-**platforem či technologií** a v žádném případě **nesměřuje ke zúžení**
-jeho práva na činění digitálního úkonu vůči orgánu veřejné moci (dle své
-volby) prostřednictvím jednoho ze **zákonem vymezených kanálů**.
-Argument analogického použití pravidla obsaženého v § 13 zákona o právu
-na digitální služby na úpravu zakotvující právo učinit úkon vůči orgánu
-veřejné moci prostřednictvím jednoho ze zákonem vymezených kanálů podle
-§ 4 téhož zákona obsažený v části 2 (Obslužné kanály pro podání --
-učinění úkonu) kapitole 2.1 (Posuzování hospodárnosti při zpřístupnění
-ISVS pro digitální úkon) výkladového podkladu **považujeme za
-nepřesvědčivý**.
-
-Výkladový podklad na tuto otázku odpověď nedává a není možné ji nalézt
-ani v odkazované příručce. Tato otázka je podle našeho názoru **zcela
-klíčová**, neboť vybudování informačního systému veřejné správy je
-značně nákladné a správní orgány by (z důvodu nutnosti umožnit uživateli
-každé služby zahrnuté v katalogu služeb učinit úkon i prostřednictvím
-portálového řešení) byly nuceny vynakládat značné prostředky. Argument
-obsažený ve výkladovém podkladu, podle něhož je právo učinit digitální
-úkol prostřednictvím portálu vhodný pouze tehdy, kdy je danou investici
-možné obhájit z hlediska principu 3E, **není-li podložen** dostatečným
-právním základem (konkrétním normativním textem), by v případě, kdy by
-se uživatel domáhající se tohoto práva obrátil na soud, zcela jistě
-**neobstál**. Důsledkem by mohl být vznik odpovědnosti státu za škodu
-způsobenou tím, že tomuto právu nebylo učiněno zadost. Nepodaří-li se
-pro nastíněné omezení dané možnosti dostatečný právní základ nalézt,
-**mělo by být předmětné ustanovení** zákona o právu na digitální služby
-v tomto smyslu **doplněno**, a to co nejdříve.
-
-Ministerstvo dopravy též upozorňuje na to, že tvrzení, podle něhož
-ohlašovatel, který uvede přesný odkaz, tím splní i svoji povinnost uvést
-strukturu, formát a obsah formuláře (jak je uvedeno v kapitole 4.2
-výkladového podkladu), z příslušné normativní úpravy **dovozovat
-nelze**.

@@ -38,37 +38,7 @@ podepisujícímu.*
 plnou moc k právnímu jednání podle § 441 odst. 2 poslední věty
 občanského zákoníku.*
 
-# Předpoklady a souvislosti dokumentu
-
-Tento dokument vychází z následujících předpokladů:
-
-1.  Digitální a informační agentura (dále jen „DIA") připravila tento
-    dokument na základě vlastních zkušeností a diskuzí vedených v rámci
-    meziresortní pracovní skupiny organizované DIA k výkladu zákona
-    12/2020 Sb., o právu na digitální služby (dále jen „ZoPDS").
-
-2.  DIA není orgánem příslušným k poskytnutí závazného výkladu ZoPDS.
-    Dokument tak přináší výhradně návrh řešení.
-
-3.  Dokument prezentuje návrh pro první etapu implementace ustanovení
-    ZoPDS, který z pohledu některých orgánů veřejné moci (dále jen
-    „OVM") nemusí zcela bez dalšího naplňovat znění ZoPDS. Jde však o
-    návrh řešení, který se za současného stavu relevantních právních
-    předpisů a technických řešení jeví jako nejpřívětivější pro
-    uživatele a jako jednoduché, účelné, efektivní a hospodárné z
-    pohledu technického řešení pro OVM.
-
-4.  Je na odpovědnosti každého jednotlivému OVM, jaké řešení pro
-    implementaci tohoto ustanovení zvolí, tedy zda bude v rámci první
-    etapy implementace tohoto ustanovení následovat dále prezentovaný
-    návrh řešení a následně hledat řešení, které bude z jeho pohledu
-    vhodnější, anebo pro implementaci zvolí zcela jiné řešení.
-
-5.  Pokud s některým z dále prezentovaným závěrem nesouhlasil některý
-    z členů meziresortní pracovní skupiny k výkladu ZoPDS, byl mu dán
-    prostor v tomto dokumentu svůj odlišný závěr uvést.
-
-# Obecné předpoklady úředního ověření elektronického podpisu
+### Obecné předpoklady úředního ověření elektronického podpisu
 
 Pro některá právní jednání zákony vyžadují úřední ověření podpisu.
 Úředním ověřením se rozumí legalizace ve smyslu § 10 zákona č. 21/2006
@@ -124,7 +94,7 @@ notáři. U postupu dle bodu 3 pak ZoPDS stanoví, že pro jeho využití je
 třeba použít uznávaný elektronický podpis. Jednotlivé postupy rozebíráme
 níže.
 
-# Ověření osobou oprávněnou provádět ověření podpisu
+### Ověření osobou oprávněnou provádět ověření podpisu
 
 Podle zák. o ověřování provádí legalizaci obecní úřad, újezdní úřad,
 držitel poštovní licence a Hospodářská komora České republiky.
@@ -150,7 +120,7 @@ elektronický podpis a časové razítko k ověřovací doložce (srov. § 5b
 odst. 3). Stejně tak připojuje notář svůj kvalifikovaný elektronický
 podpis na doložku podle § 74a notářského řádu.
 
-# Dokument nedílně spojený se záznamem informačního systému veřejné správy 
+### Dokument nedílně spojený se záznamem informačního systému veřejné správy 
 
 ZoPDS umožňuje také splnit požadavek úředně ověřeného podpisu dokumentem
 nedílně spojeným se záznamem informačního systému veřejné správy o
@@ -168,7 +138,7 @@ požadavku elektronického podpisu ZoPDS v souladu se zásadou technické
 neutrality nijak neřeší a bude záležitostí informačního systému veřejné
 správy, jaké technické řešení bude zvoleno.
 
-# Využití údajů základního registru obyvatel nebo portálu veřejné správy
+### Využití údajů základního registru obyvatel nebo portálu veřejné správy
 
 Poslední možností je využití uznávaného elektronického podpisu
 podepisující osoby, pokud lze s využitím údajů základního registru
@@ -205,7 +175,7 @@ vyžadováno úřední ověřený podpis, aby ověřoval, zda jsou údaje o dan�
 certifikátu zapsány do registru obyvatel. Ověření, že certifikát v
 registru obyvatel je, však může být pro některé OVM problematické.
 
-## Ověření na základě zápisu údajů o čísle dokladu do kvalifikovaného certifikátu pro elektronický podpis
+### Ověření na základě zápisu údajů o čísle dokladu do kvalifikovaného certifikátu pro elektronický podpis
 
 Výkladem ustanovení § 6 odst. 2 ZoPDS lze také dojít k dalšímu řešení,
 které spočívá v tom, že pro dosažení právního účinku úředně ověřeného
@@ -220,19 +190,10 @@ vytvářejících důvěru návrh doporučení, jak údaje o čísle a typu dokl
 do kvalifikovaného certifikátu pro elektronický podpis zapisovat.
 V současné době probíhá připomínkování tohoto návrhu.
 
-# Plná moc pro právní jednání dle § 441 odst. 2 poslední věty občanského zákoníku
+### Plná moc pro právní jednání dle § 441 odst. 2 poslední věty občanského zákoníku
 
 Z posledního odstavce rozebíraného ustanovení vyplývá, že pro plnou moc
 k právnímu jednání, pro které je vyžadována forma veřejné listiny, lze
 použít ověření elektronicky podepsaného dokumentu pouze při jeho ověření
 osobou oprávněnou provádět legalizaci, resp. advokátem.
 
-# Návrhy na novelizaci ZoPDS
-
-Z diskuzí v rámci meziresortní pracovní skupiny k ZoPDS vyplynulo, že by
-měla by být zvážena novelizace § 6 ZoPDS, resp. dalších předpisů a
-prováděcích právních předpisů, která může spočívat zejména v:
-
-1.  Mělo by být sjednoceno znění § 6 a § 74a notářského řádu, resp.
-    vyhlášky č. 36/2006 Sb. (viz bod 3 „*Ověření osobou oprávněnou
-    provádět ověření podpisu"* výše).

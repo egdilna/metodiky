@@ -42,37 +42,7 @@ pozdějších předpisů.*
 
 *10) Například § 5 až 11 zákona č. 297/2016 Sb.*
 
-# Předpoklady a souvislosti návrhu
-
-Tento dokument vychází z následujících předpokladů:
-
-1.  Digitální a informační agentura (dále jen „DIA") připravila tento
-    dokument na základě vlastních zkušeností a diskuzí vedených v rámci
-    meziresortní pracovní skupiny organizované DIA k výkladu zákona
-    12/2020 Sb., o právu na digitální služby (dále jen „ZoPDS").
-
-2.  DIA není orgánem příslušným k poskytnutí závazného výkladu ZoPDS.
-    Dokument tak přináší výhradně návrh řešení.
-
-3.  Dokument prezentuje návrh pro první etapu implementace ustanovení
-    ZoPDS, který z pohledu některých orgánů veřejné moci (dále jen
-    „OVM") nemusí zcela bez dalšího naplňovat znění ZoPDS. Jde však o
-    návrh řešení, který se za současného stavu relevantních právních
-    předpisů a technických řešení jeví jako nejpřívětivější pro
-    uživatele a jako jednoduché, účelné, efektivní a hospodárné z
-    pohledu technického řešení pro OVM.
-
-4.  Je na odpovědnosti každého jednotlivému OVM, jaké řešení pro
-    implementaci tohoto ustanovení zvolí, tedy zda bude v rámci první
-    etapy implementace tohoto ustanovení následovat dále prezentovaný
-    návrh řešení a následně hledat řešení, které bude z jeho pohledu
-    vhodnější, anebo pro implementaci zvolí zcela jiné řešení.
-
-5.  Pokud s některým z dále prezentovaným závěrem nesouhlasil některý
-    z členů meziresortní pracovní skupiny k výkladu ZoPDS, byl mu dán
-    prostor v tomto dokumentu svůj odlišný závěr uvést.
-
-# Právo prokázat nebo osvědčit právní skutečnost
+### Právo prokázat nebo osvědčit právní skutečnost
 
 Zákon zde vychází z povinnosti využívat údaje vedené v základním
 registru nebo agendovém informačním systému, respektive nevyžadovat tyto
@@ -112,7 +82,7 @@ zpřístupnění požádat. Pokud nějaké údaje navíc OVM zpřístupněné ne
 měl by také v této souvislosti OVM zvážit, zda je skutečně pro výkon
 agendy potřebuje a zda nejsou od uživatele vyžadovány nadbytečně.
 
-## Odkaz na údaje
+#### Odkaz na údaje
 
 V návaznosti na § 7 odst. 1 ZoPDS dává tento zákon v § 9 odst. 1 písm.
 a) právo pro prokázání právní skutečnosti pouze odkázat na příslušný
@@ -122,7 +92,7 @@ na základě souhlasu uživatele služby. Může jít o údaje vedené na zákla
 zákona či zapsané na základě práva na zápis práva, povinnosti nebo
 právní skutečnosti do registru práv a povinností dle § 8 ZoPDS.
 
-## Prokázání výpisem z ISVS
+#### Prokázání výpisem z ISVS
 
 Nebude-li mít OVM přístup k údajům na základě zákona ani souhlasu
 uživatele, má uživatel právo osvědčit právní skutečnosti výpisem z
@@ -145,7 +115,7 @@ systémů veřejné správy nebo jejich částí, které jsou neveřejnými
 evidencemi, rejstříky nebo seznamy, však vydávají správci úplný nebo
 částečný výpis, pokud tak stanoví zvláštní právní předpis.
 
-# Splnění povinnosti předkládat rozhodnutí, doklad, průkaz, osvědčení nebo poskytnout jiný údaj
+### Splnění povinnosti předkládat rozhodnutí, doklad, průkaz, osvědčení nebo poskytnout jiný údaj
 
 Uživatel služby nemá povinnost nadbytečně předkládat rozhodnutí, doklad,
 průkaz, osvědčení nebo poskytnout jiný údaj za splnění dvou podmínek:
@@ -168,7 +138,7 @@ uživatele neodkazuje výhradně na prokázání totožnosti prostřednictvím
 elektronické identifikace, uživatel tak bude moci prokázat totožnost i
 jiným způsobem.
 
-# Rovnocennost listinných a elektronických dokumentů
+### Rovnocennost listinných a elektronických dokumentů
 
 V posledním odstavci tohoto ustanovení zákon pamatuje na čl. 46 nařízení
 eIDAS, podle kterého elektronickému dokumentu nesmějí být upírány právní
@@ -189,23 +159,3 @@ provést autorizovanou konverzi dokumentu ve smyslu § 22 odst. 1 písm. a)
 zákona č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi
 dokumentů.
 
-# Návrhy na novelizaci ZoPDS
-
-Z diskuzí v rámci meziresortní pracovní skupiny k ZoPDS vyplynulo, že by
-mohla by být zvážena novelizace § í ZoPDS, resp. dalších předpisů či
-prováděcích právních předpisů, která může spočívat zejména v:
-
-1.  Měla by být zvážena novelizace agendových předpisů, z nichž některé
-    mohou nadbytečně výslovně požadovat předložení rozhodnutí, dokladu,
-    průkazu, osvědčení nebo jiného údaje, které jsou jinak dostupné OVM
-    v základních registrech či agendových informačních systémech.
-
-2.  V souvislosti s předchozím bodem by také měl být vyjasněn poměr mezi
-    výčty různých údajů, skutečností či dalších dokladů ve zvláštních
-    právních předpisech vyžadovaných k doložení v rámci podání a § 7 a §
-    9 ZoPDS.
-
-3.  Lze zvážit vypuštění § 9 odst. 1 písm. a) ZoPDS s ohledem na to, že
-    tuto situaci již řeší § 7 odst. 1 ZoPDS.
-
-# Odlišné stanovisko členů meziresortní pracovní skupiny 
