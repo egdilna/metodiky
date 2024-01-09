@@ -27,7 +27,20 @@ Aktuální verze je na adrese
 
 <https://metodiky.egdilna.cz/postupy/kontrolni-seznam-katalog-zameru>
 
-## 🖋 Co je Katalog záměrů a k čemu má sloužit
+## KEKOREKTUŘE  Co je Katalog záměrů a k čemu má sloužit
+
+Výsledkem naší analýzy současného stavu úřadu a jeho ICT (při přípravě a tvorbě informační koncepce) jsou záměry, kterými chceme realizovat cíle a napravovat identifikované nedosttky či zlepšoivat stav věcí. Záměr je předchůdce projektu na obecné úrovni, kterou jsme schopni definovt při tvorbě IK.
+
+
+Záměry lze evidovat i v rámci samotné IK, což lze doporučit jen opravdu malým úřadům. Druhým (správným) způsobem je oddělené vedení Katalogu záměrů. Přináší totiž veškeré výhody oddělené zprávy záměrů jako podkladů pro projekty, či dokonce samotné realizace projektů a aktivit. Katalog záměrů by z podstaty měly mít všechny orgány veřejné zprávy, které se řídí mechanizmi projektového řízení a procesního řízení nejen v informatice, protože záměr z pohledu Katalogu záměrů v informační koncepci je de facto podkladem či samotným projektem realizovaným v rámci projektového řízení.
+
+To znamená, , že pokud si budeme vést řádně Katalog záměrů se všemi pro nás potřebnými údaji o každém záměru, , máme vyřešenou celou řadu povinností a nutností v rámci projektového řízení i strategického řízení ICT (dlouhodobé řízení).
+
+Katalog záměrů je evidence jako každá jiná. Je tedy dobré mít pro ni nějaký nástroj, ve kterém budou záměry a jednotlivé podrobnosti k nim  nejen spravovány, ale který také umožňuje verzování a historii údajů a bude umožňovat propojit záměr v katalogu s dalšími případnými evidencemi či aplikacemi (třeba projektovým systémem).
+
+Samotný katalog záměrů může být ale také poměrně jednoduchý. A dokonce se jeho prostřednictvím mohou méně náročné aktivity přímo I řídit a zaznamenávat jejich průběh.
+
+
 
 
 ## 🖋 Postup jak vytvořit katalog záměrů a co v něm vést
