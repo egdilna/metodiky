@@ -5,7 +5,7 @@ description: "Zákon o právu na digitální služby (12/2020) už mezi námi n�
 nav_order: 11
 parent: Oblast Legislativa
 grand_parent: Metodiky
-last_updated_date: 2023-08-23
+last_updated_date: 2024-01-18
 ---
 
 
@@ -82,6 +82,27 @@ Zákonem 471/2022 se v tomto paragrafu zřídila Digitální a informační agen
 - Stanovuje právo, že uživatel služby není povinen pro uplatnění svého práva, splnění povinnosti nebo doložení právní skutečnosti, která se ho týká, předkládat rozhodnutí, doklad, průkaz, osvědčení nebo poskytnout jiný údaj, pokud prokázal svoji totožnost a údaje o něm nebo o jeho právech, povinnostech nebo právních skutečnostech, které se ho týkají, jsou vedeny v základním registru nebo agendovém informačním systému a jsou orgánu veřejné moci zpřístupněné pro výkon agendy. 
 
 - Dále stanovuje doplňkové právo, že uživatel může právní skutečnost doložit také výpisem z informačního systému
+
+### § 9a až § 9f Právo na využití digitálního stejnopisu průkazu
+
+- Pokud právní předpis nebo výkon působnosti vyžaduje či umožňuje prokázání totožnosti nebo doložení skutečnosti průkazem, má držitel průkazu právo na prokázání digitálním stejnopisem průkazu.
+- Prokázání totožnosti nebo jiné skutečnosti digitálním stejnopisem průkazu jsou povinni umožnit 
+	- orgán veřejné moci
+	- osoba, které právní předpis ukládá povinnost ověřit totožnost předložením průkazu
+	- Osoba, která je oprávněna užít digitální stejnopis průkazu, (dále jen „prokazující“) prokazuje totožnost nebo jinou skutečnost digitálním stejnopisem průkazu prostřednictvím mobilní aplikace pro prokazování. Ten, vůči komu lze prokázat totožnost nebo jinou skutečnost digitálním stejnopisem průkazu, (dále jen „ověřující“) zobrazuje digitální stejnopis průkazu prostřednictvím elektronické aplikace pro ověřování. Správcem aplikace je Digitální a informační agentura.
+- Digitální stejnopis průkazu obsahuje údaje, které jsou v průkazu uvedeny v podobě bezprostředně čitelné nebo vnímatelné člověkem, a údaje o průkazu potřebné k prokázání totožnosti nebo jiné skutečnosti.
+- Agentura stanoví po dohodě s ohlašovateli příslušných agend a správci příslušných informačních systémů veřejné správy seznam průkazů, jejichž digitální stejnopis si lze obstarat, a zveřejní jej na portálu veřejné správy. Agentura umožní obstarat si alespoň digitální stejnopis občanského průkazu.
+- Totožnost nebo jinou skutečnost lze digitálním stejnopisem průkazu prokázat pouze za současné fyzické přítomnosti prokazujícího a ověřujícího nebo fyzické osoby, která je oprávněna za ověřujícího jednat.
+- Pro prokázání respektive předávání údajů průkazu se od prokazujícího vyžaduje použití zaručené elektronické identifikace v mobilní aplikaci.
+- Ověřující orgán či osoba musí využívat elektronickou aplikaci, jejím poskytovatelem je také Digitální a informační agentura. Aplikace je přístupná také přes Portál veřejné správy.
+- Technicky se prokazování realizuje vystavením stejnopisu v jednodenních intervalech, DIA doručí takový stejnopis do mobilní aplikace držitele průkazu, takže jej má ve svém prostředku a výhradně pod svojí kontrolou. Pokud se nepodaří DIA doručit stejnopis, má se za to, že údaje z posledního stejnopisu v mobilní aplikaci jsou platné.
+- Ověřující, který umožní prokázání totožnosti nebo jiné skutečnosti digitálním stejnopisem průkazu, vyrozumí o této skutečnosti Agenturu.
+
+### § 9g až § 9r Podrobnosti poskytování ověření digitálním stejnopisem
+
+- Kromě DIA může být akreditována i další mobilní aplikace pro ověření.
+- DIA rozhoduje o udělení a odejmutí akreditace dle zákonných podmínek, žadatel musí splnit řadu bezpečnostních, ekonomických a technických podmínek
+
 
 ### § 10 Právo na zápis kontaktního údaje
 

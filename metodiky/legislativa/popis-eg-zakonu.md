@@ -5,11 +5,11 @@ description: "Přehled co najdete v jakém EG zákoně ve formě jednoduchých a
 nav_order: 1
 parent: Oblast Legislativa
 grand_parent: Metodiky
-last_updated_date: 2023-02-01
+last_updated_date: 2024-01-18
 ---
 
 
-Aktualizováno 1.2.2023 podle zákona 471/2022
+Aktualizováno 18.1.2024 podle aktuálních zákonů
 
 
 
@@ -64,6 +64,9 @@ OBSAH DOKUMENTU
 		- Požádat o stanovisko Odbor hlavního architekta před realizací projektů určených IS
 
 		- Požádat o stanovisko Odbor hlavního architekta před zahájením poskytování či změně služby určeného IS (kolaudace)
+
+		- Realizovat dlouhodobé řízení ICT
+		
 
 	- Zakazuje realizovat rozvoj či pořízení určených informačních systémů a nebo uvedení do provozu bez souhlasného stanoviska OHA
 
@@ -310,6 +313,8 @@ OBSAH DOKUMENTU
 
 	- Právo na prokázání právní skutečnosti
 
+		- Právo na využití digitálního stejnopisu průkazu
+
 	- Právo na zápis kontaktního údaje
 
 	- Právo na informace v souvislosti s poskytováním digitálních služeb
@@ -333,6 +338,11 @@ OBSAH DOKUMENTU
 	- provozuje kompetenční centra
 
 - Další změny EG zákonů
+
+	- Upravuje realizaci digitálního prokazování stejnopisem průkazu, provoz a využívání souvisejících elektronických a mobilních aplikací a udává k tomu příslušné povinnosti
+
+
+
 
 	- Upravuje zákony tak, aby se mohla realizovat práva PDS
 
