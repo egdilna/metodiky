@@ -313,7 +313,7 @@ OBSAH DOKUMENTU
 
 	- Právo na prokázání právní skutečnosti
 
-		- Právo na využití digitálního stejnopisu průkazu
+	- Právo na využití digitálního stejnopisu průkazu
 
 	- Právo na zápis kontaktního údaje
 
