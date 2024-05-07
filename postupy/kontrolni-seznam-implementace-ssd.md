@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Kontrolní seznam implementace úkolů ze Strategie správy dat v úřadu
-description: "Tento postup se týká toho, jak postupovat pro technickou realizaci splnění povinnosti poskytování údajů v propojeném datovém fondu a tedy výměny údajů mezi agendami a agendovými systémy. Určuje kroky ohlašovatelům a správcům daných informační systémů."
 description: "Tento postup se týká toho, jak postupovat pro správnou implementaci opatření ze Strategie správy dat VS a splnění úkolů pro jednotlivé úřady
 last_modified_date: 2024-05-07
 nav_order: 8
