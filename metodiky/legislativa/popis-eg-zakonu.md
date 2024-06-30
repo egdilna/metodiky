@@ -9,7 +9,7 @@ last_updated_date: 2024-01-18
 ---
 
 
-Aktualizováno 18.1.2024 podle aktuálních zákonů
+Aktualizováno <ins>30.6.2024</ins> podle aktuálních zákonů
 
 
 
@@ -66,7 +66,10 @@ OBSAH DOKUMENTU
 		- Požádat o stanovisko Odbor hlavního architekta před zahájením poskytování či změně služby určeného IS (kolaudace)
 
 		- Realizovat dlouhodobé řízení ICT
-		
+		- Zpracovat a aktualizovat dokumentaci ISVS
+
+		- Realizovat provoz a rozvoj ISVS a informačních činností výhradně se souhlasným stanoviskem OHA
+		- Realizovat rozvoj či pořízení informačních systémů v souladu s IKČR
 
 	- Zakazuje realizovat rozvoj či pořízení určených informačních systémů a nebo uvedení do provozu bez souhlasného stanoviska OHA
 
@@ -126,6 +129,7 @@ OBSAH DOKUMENTU
 	- Definuje využívání zaručené elektronické identifikace v rámci portálů a v rámci poskytování služeb
 
 	- Stanovuje, že zaručená elektronická identifikace správně využitá při službách informačních systémů nahrazuje podpis a je jednou z forem vlastnoručního podpisu
+	- stanovuje povinnosti přístupu subjektu k datům a výpisům z jeho ISVS
 
 	- Definuje Centrální místo služeb jako infrastrukturu KIVS a stanovuje povinnosti využívat CMS správcům ISVS
 
@@ -176,6 +180,8 @@ OBSAH DOKUMENTU
 	- U specifik údajů o fyzických osobách z Registru obyvatel dále
 
 		- Využívat agendové identifikátory fyzických osob (AIFO) podle agend, v nichž působí a vnichž využijí referenční údaje
+		- <ins>využívat oprávnění k zastupování osoby zapsané v IS Oprávnění</ins>
+		- <ins>pro přihlášení v činnostní roli do cizích AIS využívat povinně JIP/KAAS a nově CAIS jako systémy autentifikaci uživatelů OVM</ins>
 
 	- Řeší záležitosti ohledně výpisů údajů z registrů a výpisů údajů o využívání, na něž mají subjekty právo a stanovuje kanály pro tyto výpisy
 
@@ -294,6 +300,11 @@ OBSAH DOKUMENTU
 	- Zakotvuje Zápis rozhodnutí a Zápis skutečnosti týkající se fyzické či právnické osoby a řeší podrobnosti o zápisu a aktualizaci údajů a jejich využití v souladu s PDS
 
 	- Zavádí Rejstřík ISVS a stanovuje jeho strukturu a vyhláškou rozsah povinně spravovaných a ohlašovaných údajů o každém ISVS
+
+	- Dále stanovuje následující klíčové informační systémy a související povinnosti pro OVM
+
+		- <ins>Informační systém o oprávněních k zastupování</ins> 
+		- <ins>Autentizační informační systém</ins>
 
 ### [Zákon č. 12/2020 Sb., o právu na digitální služby](https://www.zakonyprolidi.cz/cs/2020-12)
 
@@ -455,7 +466,8 @@ OBSAH DOKUMENTU
 	- Řeší problematiku schvalování dokumentů s využitím jiných technických prostředků jako ekvivalentu podpisů pro interní účely
 
 	- Stanovuje povinnosti původcům pro správu dokumentů, komunikaci s archivem a skartace
-
+	- <ins>jednoznačně určuje povinnosti týkající se dokumentů nejen na dokumenty evidované v ESSL, ale v jakémkoliv informačním systému</ins>
+	- <ins>udává povinnost přístupnosti textových digitálních dokumentů vyhotovovaných původcem a povinnost zahrnout datovou větu ve standardu vyhlášeném DIA</ins>
 	- Původcům stanovuje povinnost vydávat a dodržovat Spisový řád a Spisový plán jako procesní dokumenty pro spisovou službu
 
 	- Archivům zakládá povinnost metodické činnosti a pomoci v rámci předarchivní péče
