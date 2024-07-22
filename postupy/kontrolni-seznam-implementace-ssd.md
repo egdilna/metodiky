@@ -2,7 +2,7 @@
 layout: default
 title: Kontrolní seznam implementace úkolů ze Strategie správy dat v úřadu
 description: "Tento postup se týká toho, jak postupovat pro správnou implementaci opatření ze Strategie správy dat VS a splnění úkolů pro jednotlivé úřady
-last_modified_date: 2024-05-07
+last_modified_date: 2024-07-22
 nav_order: 8
 parent: Kontrolní seznamy postupů
 grand_parent: Postupy
@@ -11,7 +11,7 @@ grand_parent: Postupy
 
 # Kontrolní seznam implementace úkolů ze Strategie správy dat v úřadu
 
-Verze 1.0
+Verze 1.1
 
 Zpracováno jako výstup projektu egdilna.cz a partnerů v rámci EG konkrétních postupů
 
@@ -33,7 +33,7 @@ Strategie správy dat veřejné správy (označovaná jako SSD nebo SSDVS) je z�
 
 Kromě řady konkrétních opatření a úkolů pro stát formou úkolů pro Vládu a Digitální a informační agenturu, přináší také povinně realizovatelná opatření pro jednotlivé úřady (pokud jsou správci dat či datových oblastí). Tento dokument udává rozpad opatření do konkrétních úkolů, kterými lze tato opatření splnit v úřadu.
 
-### Jak postupovat při rozpadu opatření a plnění souvisejících úkolů v úřadu
+## Jak postupovat při rozpadu opatření a plnění souvisejících úkolů v úřadu
 
 ###   Opatření 1.1.1 Stanovit odpovědnost za data úřadu a jejich správu
 Úkol 1.  Jmenovat Manažera správy dat: zástupce nejvyššího nebo vyššího vedení úřadu v roli, která je celkově manažersky odpovědná za fungování a rozvoj správy dat v celém úřadu
@@ -152,6 +152,29 @@ VÝSLEDEK:  V Informační koncepci úřadu jsou zohledněny střednědobé a dl
 Úkol 3. S DIA řešit kontexty pro sdílení a poskytování údajů v rámci propojeného datového fondu
 
 Úkol 4. Každý informační systém publikující údaje v propojeném datovém fondu upravit tak, aby poskytoval správně údaje přes EGSB a kontexty
+
+ins
+
+###   Opatření 1.5.1 Zavést v úřadu základní postupy pro zajištění kvality dat
+
+Úkol 1.  Zahrnout kvalitu dat do procesů řízení kvality v úřadu
+
+Úkol 2. Stanovení kritérií kvality dat podle druhů datových potřeb a prioritních oblastí dat
+
+Úkol 3. Evidence nedostatků ve kvalitě dat jako součást QM
+
+###   Opatření 1.5.2 Zavést v úřadu základní řízení rizik v oblasti dat
+
+Úkol 1.  Stanovit rizika v rámci datových potřeb úřadu
+
+Úkol 2. Zahrnutí nejzávažnějších rizik plynoucích z datových potřeb do formálního řízení rizik
+
+Úkol 3. Evidence řešení rizik plynoucích z datových potřeb a správy dat
+
+/ins
+
+
+
 ###   Opatření 1.4.2 Zohledňovat při zadávání a řešení změn IS dopady na data a jejich správu
 Úkol 1.  Zpracovat a uplatňovat základní vnitřní metodiku řešení správy dat a datových potřeb v informačních systémech a pro přípravu jejich změn
 
