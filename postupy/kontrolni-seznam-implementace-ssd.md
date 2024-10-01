@@ -25,8 +25,7 @@ Postup najdete vždy v rámci [sekce Postupy na webu metodiky.egdilna.cz](https:
 
 Aktuální verze je na adrese
 
-[https://metodiky.egdilna.cz/postupy/kontrolni-seznam-implementace-ssd](https://metodiky.egdilna.cz/postupy/kontrolni-seznam--implementace-ssd)
-
+<https://metodiky.egdilna.cz/postupy/kontrolni-seznam-implementace-ssd>
 ## Strategie správy dat veřejné správy
 
 Strategie správy dat veřejné správy (označovaná jako SSD nebo SSDVS) je základním strategickým i implementačním rámcem pro nastavení správné správy dat veřejné správy s ohledem na plnění základních architektonických principů a to zejména architektonického principu č. 22 IKČR Datová suverenita a nezávislost.
