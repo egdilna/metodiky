@@ -11,7 +11,7 @@ grand_parent: Postupy
 
 # Kontrolní seznam pro evidenci datových potřeb úřadu
 
-Verze 1.0
+Verze 1.0 z 3.10.2024
 
 Zpracováno jako výstup projektu egdilna.cz a partnerů v rámci EG konkrétních postupů
 
@@ -27,9 +27,7 @@ Aktuální verze je na adrese
 
 <https://metodiky.egdilna.cz/postupy/kontrolni-seznam-evidence-datovych-potreb>
 
-
-
-## 🖌️Co je Evidence datových potřeb a proč jí potřebujeme?
+## Co je Evidence datových potřeb a proč jí potřebujeme?
 
 Strategie správy dat a novelizovaná Informační koncepce ČR z roku 2024 jako jedno ze svých opatření říkají, že úřad si má vést a spravovat datové potřeby. Detaily o opatřeních a z nich plynoucích úkolech Strategie správy dat rozebírá [Kontrolní seznam implementace úkolů ze Strategie správy dat v úřadu](https://metodiky.egdilna.cz/postupy/kontrolni-seznam-implementace-ssd)
 
@@ -39,21 +37,19 @@ Evidence datových potřeb je interní evidenční nástroj, který
 
 - slouží k evidenci identifikovaných potřeba na zlepšení dat či jejich kvality v úřadu (datové potřeby)
 - přináší zodpovědným zaměstnancům aktuální přehled o potřebách a o jejich řešení
-- slouží jako nástrj s jehož pomocí se eviduje nejen datová potřeba jako taková, ale také postup její realizace
+- slouží jako nástroj s jehož pomocí se eviduje nejen datová potřeba jako taková, ale také postup její realizace
 - podklad pro seznam datových potřeb v Informační koncepci OVS
-
 
 ## Postup jak vybudovat evidenci datových potřeb
 
-1.  Adoptovat úkoly dle opatření Strategie správy dat
-    *  Rozpad a postup nabízí [dokument Kontrolní seznam implementace úkolů ze Strategie správy dat v úřadu](https://metodiky.egdilna.cz/postupy/kontrolni-seznam-implementace-ssd)
-2. Seznámit se stím, co jsou datové potřeby a k čemu slouží evidence datových potřeb
-    *  Zdrojem je kupříkladu [Webinář Identifikace a řízení datových potřeb](https://www.youtube.com/watch?v=0tHQdmtiNkM)
+1. Adoptovat úkoly dle opatření Strategie správy dat
+    - Rozpad a postup nabízí [dokument Kontrolní seznam implementace úkolů ze Strategie správy dat v úřadu](https://metodiky.egdilna.cz/postupy/kontrolni-seznam-implementace-ssd)
+2. Seznámit se s tím, co jsou datové potřeby a k čemu slouží evidence datových potřeb
+    - Zdrojem je kupříkladu [Webinář Identifikace a řízení datových potřeb](https://www.youtube.com/watch?v=0tHQdmtiNkM)
 3. Vytvořit evidenci datových potřeb
-    *  💡Jako nástroje lze využít prostou tabulku Excel, ale vhodnější je nějaké sofistikované řešení
-    *  Doporučovaná struktura k datovým potřebám je na [stránce Ůdaje o datových potřebách úřadu](https://architektovani.tiddlyhost.com/#%C3%9Adaje%20o%20datov%C3%BDch%20pot%C5%99eb%C3%A1ch)
+    - 💡Jako nástroje lze využít prostou tabulku Excel, ale vhodnější je nějaké sofistikované řešení
+    - Doporučovaná struktura k datovým potřebám je na [stránce údaje o datových potřebách úřadu](https://architektovani.tiddlyhost.com/#%C3%9Adaje%20o%20datov%C3%BDch%20pot%C5%99eb%C3%A1ch)
 4. Společně s věcnými správci datových oblastí identifikovat jednotlivé datové potřeby
-    *  Datové potřeby dělíme do třech základních skupin: Související se zdroji dat, Související s kvalitou dat a architekturou, Související s analytickou prací s daty
+    - Datové potřeby dělíme do třech základních skupin: Související se zdroji dat, Související s kvalitou dat a architekturou, Související s analytickou prací s daty
 
 ## Postup jak evidovat řešení datové potřeby
-
