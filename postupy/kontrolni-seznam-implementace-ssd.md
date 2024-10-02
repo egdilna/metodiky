@@ -2,7 +2,7 @@
 layout: default
 title: Kontrolní seznam implementace úkolů ze Strategie správy dat v úřadu
 description: "Tento postup se týká toho, jak postupovat pro správnou implementaci opatření ze Strategie správy dat VS a splnění úkolů pro jednotlivé úřady"
-last_modified_date: 2024-07-22
+last_modified_date: 2024-10-02
 nav_order: 8
 parent: Kontrolní seznamy postupů
 grand_parent: Postupy
@@ -11,7 +11,7 @@ grand_parent: Postupy
 
 # Kontrolní seznam implementace úkolů ze Strategie správy dat v úřadu
 
-Verze 1.1
+Verze 1.2 z 2.10.2024
 
 Zpracováno jako výstup projektu egdilna.cz a partnerů v rámci EG konkrétních postupů
 
@@ -26,6 +26,7 @@ Postup najdete vždy v rámci [sekce Postupy na webu metodiky.egdilna.cz](https:
 Aktuální verze je na adrese
 
 <https://metodiky.egdilna.cz/postupy/kontrolni-seznam-implementace-ssd>
+
 ## Strategie správy dat veřejné správy
 
 Strategie správy dat veřejné správy (označovaná jako SSD nebo SSDVS) je základním strategickým i implementačním rámcem pro nastavení správné správy dat veřejné správy s ohledem na plnění základních architektonických principů a to zejména architektonického principu č. 22 IKČR Datová suverenita a nezávislost.
@@ -93,6 +94,13 @@ VÝSLEDEK:  Existuje a je udržováno aktuální vymezení věcných oblastí da
 Úkol 7. Průběžně projednávat stav realizace potřeb na architektonickém boardu a na vedení a aktualizovat příslušné evidence
 
 Úkol 8. Potřeby dat, pro které není připraven poskytovatel, či neexistuje známý relevantní zdroj dat, konzultovat také s DIA
+
+<ins>
+
+Úkol 9. Do Informační koncepce OVS do kapitoly k byznysu úřadu doplnit základní datové potřeby identifikované v Evidenci datových potřeb.
+
+💡Pro problematiku datových potřeb DIA zveřejňuje [webinář Identifikace a řízení datových potřeb](https://www.youtube.com/watch?v=0tHQdmtiNkM), který doporučujeme prostudovat.
+</ins>
 
 VÝSLEDEK:  Úřad systematicky identifikuje, popisuje a eviduje příležitosti související s daty a datové potřeby uživatelů, minimálně v prioritních oblastech
 ###   Opatření 1.2.3 Formulovat v rámci Informační koncepce úřadu strategii v oblasti správy dat
